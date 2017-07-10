@@ -35,5 +35,5 @@ We have strategic partnerships with the following organisations:
 
 + IBM
 + eBlueprint
-+ LXN and Associates
++ LXN & Associates
 + Pragma Partners
