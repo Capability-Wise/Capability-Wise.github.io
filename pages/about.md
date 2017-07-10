@@ -34,6 +34,6 @@ Capability Wise Pty Ltd is a preferred supplier to government and is on the foll
 We have strategic partnerships with the following organisations:
 
 + IBM
-+ Eblueprint
++ eBlueprint
 + LXN and Associates
 + Pragma Partners
