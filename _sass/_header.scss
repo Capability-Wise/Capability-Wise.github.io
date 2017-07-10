@@ -1,0 +1,361 @@
+.header{
+  background-image: url(https://digital-business-council.github.io/images/top-gradient.png);
+  background-color: $cw-primary;
+  background-clip:border-box;
+  background-size:100% 150px;
+
+  
+  .logo{
+    float:left;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 29px;
+
+    span{
+      display: inline-block;
+      vertical-align: middle;
+      padding: 0 0 0 8px;    
+
+    }
+
+    img{
+      max-height: 70px;
+      vertical-align: middle;
+    }
+  }
+
+  .header-line{
+    padding: 12px 0 16px 0;
+
+    &:after{
+      display: table;
+      clear: both;
+      content: '';
+    }
+  }
+
+  .header-menu{
+    float: right;
+    list-style: none;
+    padding: 0;
+    margin: 5px 40px 0 0;
+
+    li{
+      float: left;
+    }
+
+    a{
+      display: block;
+      text-decoration: none;
+      color: #fff;
+      font-size: 16px;
+      padding: 5px 15px;
+
+      @media screen and (max-width: 960px){
+        padding: 5px 8px;
+      }
+
+      &:hover, &.active{
+        background: $app-grey;
+      }
+    }
+  }
+
+  .header-content{
+    background: $dbc-secondary;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    padding: 40px 0 40px 0;
+
+    .img{
+      display: inline-block;
+      vertical-align: top;
+    }
+
+    .header-text-box{
+      display: inline-block;
+      vertical-align: top;
+    }
+    
+    .header-name{
+      font-weight: 700;
+      font-size: 40px;
+      margin: 0 0 12px 0;
+    }
+
+  }
+
+    .header-content-tech{
+    background: $dbc-secondary;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    padding: 40px 0 40px 0;
+
+    .img{
+      display: inline-block;
+      vertical-align: top;
+    }
+
+    .header-text-box{
+      display: inline-block;
+      vertical-align: top;
+    }
+    
+    .header-name{
+      font-weight: 700;
+      font-size: 40px;
+      margin: 0 0 12px 0;
+    }
+
+  }
+  
+  .mobile-menu{
+    display: inline-block;
+  }
+
+  .hamburger-menu{
+    display: none;
+  }
+
+  #mobile-menu{
+    position: absolute;
+    left: 0;
+    top: 60px;
+    background: $dbc-primary;
+    padding: 0 0 10px 0;
+  }
+
+  .hamburger-menu {
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 34px;
+    height: 24px;
+    font-size: 0;
+    text-indent: -9999px;
+    appearance: none;
+    box-shadow: none;
+    border-radius: none;
+    border: none;
+    cursor: pointer;
+    background: none;
+
+    :focus {
+      outline: none;
+    }
+
+    span {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: white;
+
+      &::before,
+      &::after {
+        position: absolute;
+        display: block;
+        left: 0;
+        width: 100%;
+        height: 4px;
+
+        background-color: #fff;
+        content: "";
+      }
+
+      &::before {
+        top: 10px;
+      }
+
+      &::after {
+        top: 20px;
+      }
+
+    }
+  }
+
+  @media (max-width: 767px){
+    .hamburger-menu{
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .logo{
+      float: none;
+      font-size: 20px;
+      line-height: 24px;
+      vertical-align: top;
+
+      img{
+        max-height: 24px;
+        float:right;
+      }
+
+    }
+
+    .header-menu{
+      display: none;
+      float:none;
+    }
+
+    .mobile-menu{
+      margin-right: 15px;
+
+      #mobile-menu{
+        width:100%;
+      }
+      .sidebar-menu, .header-menu{
+        display: block;
+        list-style: none;
+        margin: 0;
+
+        li{
+          display: block;
+          float: none;
+
+
+          &.menu-title{
+            padding: 6px 19px 8px 5px;
+            color: #fff;
+            font-weight: 600;
+            font-size: 16px;
+            background: #aaa;
+          }
+
+        }
+
+        a{
+          display: block;
+          padding: 6px 20px 6px 10px;
+          color: #fff;
+          font-size: 16px;
+          text-decoration: none;
+
+          &.active{
+            font-weight: 600;
+            background: #ee4901;
+          }
+        }
+      }
+    }
+
+
+
+  }
+
+  
+ul .header-menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li  .dropbtn {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li  .dropbtn-sub {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+}
+
+
+li.dropdown {
+    display: inline-block;
+    float: left;
+}
+
+li.dropdown-sub {
+    display: inline-block;
+    float: left;
+}
+
+
+
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: $dbc-primary-2;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+    z-index: 50;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content-subgroup {
+    display: none;
+    position: absolute;
+    background-color: $dbc-primary-1;
+    min-width: 200px;
+    left:15px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 51;
+}
+.dropdown-content-subgroup a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+.dropdown-content a:hover {
+    background-color: $dbc-secondary;
+    color: white;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown-sub:hover .dropdown-content-subgroup{
+    display: block;
+}
+   @media (max-width: 767px){
+     .dropdown:hover .dropdown-content{
+          display: block;
+      }
+
+    .dropdown-sub:hover .dropdown-content-subgroup{
+          display: block;
+     }
+     .dropdown-content {
+          display: none;
+          position: relative;
+          background-color: $dbc-primary-2;
+          min-width: 100%;
+        }
+     
+    .dropdown-content-subgroup {
+        display: none;
+        position: relative;
+        background-color: $dbc-primary-1;
+        min-width: 100%;
+      }
+      
+  }
+}

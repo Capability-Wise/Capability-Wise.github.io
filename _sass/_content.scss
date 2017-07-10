@@ -1,0 +1,258 @@
+.page-content,
+.page-content-blog{
+  color: $app-grey;
+  font-size: 18px;
+  line-height: 29px;
+ 
+	#layout1{
+		img{
+			float:left;
+		}
+	}
+	
+	#layout2{
+		p{
+			text-align:left;	
+		}
+		img{
+			float:none;
+		}
+	}
+
+	
+	
+  .home{
+      line-height:normal;
+      font-size:medium;
+      font-family:initial;
+      display:default;
+      box-sizing:content-box;
+    
+     table, tbody, th, tr, td, form,{
+        padding: 0px 0px;
+        box-sizing:content-box;
+        border: 0px;
+	     
+	  }
+	  tbody{
+		display:initial;	  
+	  }
+	  input {
+		  box-sizing:border-box;
+	  }
+	  
+	  .gsc-search-box{
+		  display:initial;
+	  }
+	  
+	  .gsc-search-button
+	  {
+		  input{
+		  	box-sizing:content-box;
+		  }
+	  }
+  }
+  
+  h1{
+    font-size: 33px;
+    font-weight: 700;
+    margin: 0 0 40px 0;
+    padding: 10px 0 0 0;
+  }
+
+  h2{
+    font-size: 26px;
+    font-weight: 600;
+    margin: 0 0 20px 0;
+    padding: 0;
+  }
+
+  h3{
+    font-size: 23px;
+    font-weight: 600;
+    margin: 0 0 15px 0;
+
+    padding: 0;
+  }
+
+  h4{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0 0 10px 0;
+    padding: 0;
+  }
+
+  p{
+    margin: 0 0 16px 0;
+    text-align: justify;
+  }
+
+  ul, ol{
+    margin: 0 0 15px 35px;    padding: 0;
+    color: $app-red;
+    text-align: justify;
+
+    li{
+      color: $app-grey;
+      padding: 1px 0;
+
+      &:first-child{
+        padding-top: 0;
+      }
+    }
+  }
+
+  a{
+    color: $app-red;
+    text-decoration: none;
+
+    &:hover{
+       text-decoration: underline;
+    }
+  }
+
+
+  table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+     word-break: keep-all;
+    margin: 0 0 29px 0;
+
+    th {
+      font-weight: bold;
+      font-size: 0.9em;
+    }
+
+    th, td {
+      padding: 6px 8px;
+      border: 1px solid $app-light-grey;
+    }
+
+  }
+
+  blockquote {
+    border-left: 10px solid $app-light-grey; 
+    padding: 1px 3px 0 3px;
+    background-color: ghostWhite;
+  }
+
+
+}
+.call-to-action {
+    	font-family: 'Arial Regular', 'Arial';
+    	font-weight: 400;
+    	font-style: normal;
+    	font-size: 13px;
+    	color: #333333;
+   	line-height: normal;
+	min-height:400px;
+ 	z-index:1;
+	position:relative;
+	display: -webkit-flex; /* Safari */
+    	-webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    	display: flex;   
+    	flex-wrap: wrap;
+p {
+    line-height:normal;
+    margin:0px;
+    font-size:16px;
+    text-align:left;
+}
+h3 {
+    line-height:normal;
+    margin:0px;
+    font-size:20px;
+    text-align:left;
+}
+
+	.cta-wrapper{
+		width:330px;
+		height:400px;
+		position:relative;
+		margin:auto;
+	}
+
+    .cta-frame{
+        	width: 311px;
+        	height: 389px;
+	   	z-index:5;  
+		position:absolute;    
+	     	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    	}
+ 
+	 .cta-header-img {
+		 width: 132px;
+    		 height: 111px;
+		 top:15px;
+		 left:90px;
+		 z-index:6; 
+		 position:absolute;
+		 float:left;
+	}  
+	.cta-text{
+		width: 260px;
+    		height: 96px;
+		 top:200px;
+		 left:25px;
+		z-index:6;
+		position:absolute;
+	}
+    .cta-header{
+                position: absolute;
+                line-height: normal;
+                text-wrap:normal;
+		width: 260px;
+    		height: 46px;
+	     	top:140px;
+		left:25px;
+    		font-family: 'Arial Bold', 'Arial';
+    		font-weight: 700;
+    		font-style: normal;
+    		font-size: 20px;
+		color: #42505A;
+    		text-align: left;
+            	display: block;
+	    	z-index:6;
+	}
+	
+	.cta-hr {
+                position: absolute;
+		width: 260px;
+    		height: 1px;
+		 top:320px;
+		 left:25px;
+		 z-index:6;
+	}
+
+	.cta-action-prompt{
+                position: absolute;
+		font-family: 'Arial Bold', 'Arial';
+   		font-weight: 700;
+    		font-style: normal;
+    		color: #EC520F;
+		font-size: 16px;
+		text-align: left;
+        	display: block;
+        	line-height: normal;
+            	border-width: 0px;
+		top:352px;
+		right:70px;
+		z-index:6;
+	}
+
+	.cta-action-img {
+            position: absolute;
+		 top:350px;
+		 left:270px;
+            display: block;
+            line-height: normal;
+            border-width: 0px;
+		  z-index:6;
+		img{
+			width: 20px;
+		}
+	}
+
+}
