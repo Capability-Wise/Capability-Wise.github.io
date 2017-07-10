@@ -7,6 +7,7 @@ permalink: /about/
 # About Us
 Capability Wise Pty Ltd is an Australian Company specialising in management consulting services for Australian Government Agencies.
 
+
 ## Our Executive Team
 
 ### Matt Lewis (BComm - BComp)
@@ -21,10 +22,12 @@ Matt is a certified Scaled Agile Program Consultant (SPC) and is able to provide
  
 Joanna is an experienced Change Manager with a strong background in Human Capital Management.  Joanna has a passion for strategic recruitment and employee engagement.
 
+
 ## Panel Membership
 Capability Wise Pty Ltd is a preferred supplier to government and is on the following panels:
 
 + Department of Infrastructure and Regional Development
 + DTA's Digital Marketplace
+
 
 ## Our Strategic Partnerships
