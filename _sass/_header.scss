@@ -1,7 +1,7 @@
 .header{
   background-color: $cw-primary;
   background-clip:border-box;
-  background-size:100% 150px;
+  background-size:100% 496px;
 
   
   .logo{
@@ -64,6 +64,9 @@
   .header-content{
     background: $cw-secondary;
     background-image: url(https://capability-wise.github.io/images/cover-image.png);
+    background-size:100% 496px;
+    background-repeat: no-repeat;
+    height: 496px;
     text-align: center;
     color: #fff;
     font-size: 18px;
