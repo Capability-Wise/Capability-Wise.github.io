@@ -23,7 +23,8 @@ Joanna is an experienced Change Manager with a strong background in Human Capita
 
 ## Panel Membership
 Capability Wise Pty Ltd is a preferred supplier to government and is on the following panels:
-    - Department of Infrastructure and Regional Development
-    - DTA's Digital Marketplace
+
++ Department of Infrastructure and Regional Development
++ DTA's Digital Marketplace
 
 ## Our Strategic Partnerships
