@@ -13,6 +13,12 @@ Digital transformation should turn you current business processes on their head 
 **Anything short of that is just digitisation.**
 
 
+<div class="content-block-1">
+<h2>News and Events</h2>
+<img src="{{site.url | absolute}}/images/SydneySummitG+Post.jpg"/>
+</div>
+
+
 <div class="content-block-2">
 <h2>Our Services</h2>
 
