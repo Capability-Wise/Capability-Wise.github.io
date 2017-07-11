@@ -84,10 +84,17 @@
     
     .header-name{
       font-weight: 700;
-      font-size: 40px;
+      font-size: 34pt;
+      font-family: 'Adamina';
       margin: 0 0 12px 0;
     }
 
+    .header-tagline{
+      font-family: 'OpenSans';
+      font-size: 18pt;
+      font-style: italic;
+    }
+    
   }
 
     .header-content-tech{
