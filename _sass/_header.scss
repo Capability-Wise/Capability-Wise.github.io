@@ -28,7 +28,11 @@
 
   .header-line{
     padding: 12px 0 16px 0;
-
+    width:100%;
+    position:fixed;
+    background-color:white;
+  
+    
     &:after{
       display: table;
       clear: both;
