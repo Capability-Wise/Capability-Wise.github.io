@@ -80,12 +80,14 @@
     .header-text-box{
       display: inline-block;
       vertical-align: top;
+      padding-right:50px;
     }
     
     .header-name{
       font-weight: 700;
       font-size: 34pt;
       font-family: 'Adamina';
+      float:right;
       margin: 0 0 12px 0;
     }
 
@@ -93,6 +95,9 @@
       font-family: 'OpenSans';
       font-size: 18pt;
       font-style: italic;
+      float:right;
+      text-align:right;
+      width:60%;
     }
     
   }
