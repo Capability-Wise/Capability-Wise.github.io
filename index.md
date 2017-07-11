@@ -16,5 +16,15 @@ Digital transformation should turn you current business processes on their head 
 <div class="content-block-2">
 <h2>Our Services</h2>
 
+<table>
+<tr>
+<td>Consulting Services</td>
+<td>Technology Services</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 </div>
