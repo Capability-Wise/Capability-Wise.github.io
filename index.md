@@ -22,6 +22,10 @@ Digital transformation should turn you current business processes on their head 
 <td>Technology Services</td>
 </tr>
 <tr>
+<td><img src="{site.url | absolute}/images/product-2.png"/></td>
+<td><img src="{site.url | absolute}/images/product-3.png"/></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 </tr>
