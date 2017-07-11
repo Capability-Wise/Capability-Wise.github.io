@@ -13,6 +13,8 @@ Digital transformation should turn you current business processes on their head 
 **Anything short of that is just digitisation.**
 
 
-<div>
+<div class="content-block-2">
 <h2>Our Services</h2>
+
+
 </div>
