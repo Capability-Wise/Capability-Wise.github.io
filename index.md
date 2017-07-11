@@ -1,36 +1,9 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="colours.css">
-</head>
-<body>
+﻿---
+layout: page
+title: Capability Wise Pty Ltd- Home
+---
 
-    <div class="header">
-        <h1 class="color-primary-0">Capability Wise Pty Ltd</h1>
-
-        <img src="./images/cover-image.png" width="100%" height="400px"/>
-    </div>
-
-    <div class="navbar top">
-        <div class="menubar">
-            <div class="menuitem">
-                <a href="">Products</a>
-                    <div class="menuitem">
-                        <a href="">API Central</a>
-                        <a href="">CapabilityChain</a>
-                        <a href="">BlockCommerce</a>
-                        <a href="">COntract Central</a>
-                    </div>
-                </div>
-            <div class="menuitem">
-                <a href="">Industry Solutions</a>
-            </div>
-            <div class="menuitem">
-                <a href="">Services and Support</a>
-            </div>
-        </div>
-    </div>
-
+    
     <div>
         <h1>Products</h1>
 
@@ -74,7 +47,3 @@
             <p>logo and copyright statement</p>
         </div>
     </footer>
-
-
-</body>
-</html>
