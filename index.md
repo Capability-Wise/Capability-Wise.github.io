@@ -15,7 +15,7 @@ Digital transformation should turn you current business processes on their head 
 
 <div class="content-block-1">
 <h2>News and Events</h2>
-<img src="{{site.url | absolute}}/images/SydneySummitG+Post.jpg"/>
+<img src="{{site.url | absolute}}/images/SydneySummit.jpg"/>
 </div>
 
 
