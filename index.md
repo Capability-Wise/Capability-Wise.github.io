@@ -12,6 +12,7 @@ Digital transformation should turn you current business processes on their head 
 
 **Anything short of that is just digitisation.**
 
+<br/><br/>
 
 <div class="content-block-1">
 <h2>News and Events</h2>
@@ -28,6 +29,7 @@ Our Managing Director, Matt Lewis will be presenting at the WSO2 Sydney Summit 2
 </table>
 </div>
 
+<br/><br/>
 
 <div class="content-block-2">
 <h2>Our Services</h2>
