@@ -27,10 +27,10 @@ Joanna is an experienced Change Manager with a strong background in Human Capita
 
 <br/><br/>
 ## Panel Membership
-Capability Wise Pty Ltd is a preferred supplier to government and is on the following panels:
+Capability Wise Pty Ltd is a preferred supplier to the Australian Government and is on the following panels:
 
-+ Department of Infrastructure and Regional Development
-+ DTA's Digital Marketplace
++ [Department of Infrastructure and Regional Development - IT Services Panel](https://www.tenders.gov.au/?event=public.panel.show&PanelUUID=09936C50-D98A-7B6F-5202E28B31A3B295&agency=E0829BED-EA12-09F4-A20B44A193CAF72B)
++ [Digital Transformation Agency - Digital Marketplace](https://marketplace.service.gov.au/)
 
 <br/><br/>
 ## Our Strategic Partnerships
