@@ -36,8 +36,8 @@ Capability Wise Pty Ltd is a preferred supplier to the Australian Government and
 ## Our Strategic Partnerships
 We have strategic partnerships with the following organisations:
 
-[!IBM]({{site.url|absolute}}/images/IBM_BPMark.jpg)
-[!eBlueprint]({{site.url|absolute}}/images/ebp-logo.png)
+[!{{site.url|absolute}}/images/IBM_BPMark.jpg]
+[!{{site.url|absolute}}/images/ebp-logo.png]
 
 + LXN & Associates
 + Pragma Partners
