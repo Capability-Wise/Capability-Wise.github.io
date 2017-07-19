@@ -21,7 +21,8 @@ Digital transformation should turn you current business processes on their head 
 <img src="{{site.url | absolute}}/images/SydneySummit.jpg"/>
 </td>
 <td>
-Our Managing Director, Matt Lewis will be presenting at the WSO2 Sydney Summit 2017.  Book your tickets today.
+Our Managing Director, Matt Lewis will be presenting at the WSO2 Sydney Summit 2017.  
+<br/><br/><a href="https://goo.gl/TaS2Ba">Book your tickets today.</a>
 </td>
 </tr>
 </table>
