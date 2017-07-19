@@ -44,7 +44,7 @@ Our Managing Director, Matt Lewis will be presenting at the WSO2 Sydney Summit 2
 <td><img src="{{site.url | absolute}}/images/product-3.png"/></td>
 </tr>
 <tr>
-<td></td>
+<td>Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.</td>
 <td></td>
 </tr>
 </table>
