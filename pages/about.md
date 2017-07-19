@@ -38,6 +38,5 @@ We have strategic partnerships with the following organisations:
 
 <a href="http://ibm.com.au"><img src="{{site.url|absolute}}/images/IBM_BPMark.jpg"/></a>
 <a href="http://eblueprint.com.au"><img src="{{site.url|absolute}}/images/ebp-logo.png"/></a>
-
+<a href="http://pragmapartners.com.au"><img src="{{site.url|absolute}}/images/pragma-logo.png"/></a>
 + LXN & Associates
-+ Pragma Partners
