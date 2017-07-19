@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Capability Wise Pty Ltd- Home
 ---
 
