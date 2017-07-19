@@ -53,6 +53,7 @@ text-align:center
 <a href="https://goo.gl/TaS2Ba"><img src="{{site.url | absolute}}/images/SydneySummit.jpg"/></a>
 </td>
 <td>
+<img src="{{site.url | absolute}}/images/ml-photo.jpg" width="200px"/>
 Our Managing Director, Matt Lewis will be presenting at the WSO2 Sydney Summit 2017.  
 <br/><br/><a href="https://goo.gl/TaS2Ba">Book your tickets today.</a>
 </td>
