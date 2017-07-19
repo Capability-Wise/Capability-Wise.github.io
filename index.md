@@ -32,7 +32,6 @@ Digital transformation should turn you current business processes on their head 
 .w3-display-bottommiddle{
 position:absolute;
 bottom:0;
-background-color:#000000;
 opacity:0.7;
 width:100%;
 text-align:center
@@ -61,11 +60,17 @@ Our Managing Director, Matt Lewis will be presenting at the WSO2 Sydney Summit 2
 </table>
 </div>
 
-<img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
+<div class="mySlides" style="text-align:center;">
+<table>
+<tr>
+<td>
+The Digital Business Council has released the Interoperabilty Framework for eInvoicing.
+</td>
+</tr>
+</table>
+</div>
 
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
-    <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
-    <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
   </div>
