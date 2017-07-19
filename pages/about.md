@@ -13,6 +13,7 @@ Capability Wise Pty Ltd is an Australian Company specialising in management cons
 ### Matt Lewis (BComm - BComp)
 [ Managing Director ]
  
+<img src="{{site.url | absolute}}\images\ml-image.jpg"/> 
 Matt is an experienced IT Programme Manager with an extensive background in the delivery of complex ICT Systems.  Matt is also practicing Enterprise and Solution Architect with a focus on B2B and B2G digital transactions.
 
 Matt is a certified Scaled Agile Program Consultant (SPC) and is able to provide training and certification services to your organisation.
