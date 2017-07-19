@@ -9,14 +9,14 @@ permalink: /consulting/
 ## Digital Strategy and Execution
 Benefit and value driven strategy development
 
-## Digital transformation planning
+## Digital Transformation Planning
 Complex business cases and programme design
 
 ## Enterprise Agility
 Agile for business teams, agile at scale
 
-## Standards Adoption and industry interoperability
+## Standards Adoption and Cross-Industry Interoperability
 Pragmatic adoption of open standards, market maturity assessment, interoperability frameworks
 
-## Business Process Redesign
+## Business Process Reinvention
 User centred business architecture
