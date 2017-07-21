@@ -124,7 +124,17 @@ function showDivs(n) {
 <tr>
 <td><img src="{{site.url | absolute}}/images/product-2.png"/></td>
 <td>Consulting Services <br/>
-Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.</td>
+Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.
+<br/>
+Our key consulting services include:
+Digital Strategy and Execution
+Digital Transformation Planning
+Enterprise Agility
+Standards Adoption and Cross-Industry Interoperability
+Business Process Reinvention
+
+Find Out More -->
+</td>
 </tr>
 <tr>
 
