@@ -122,16 +122,18 @@ function showDivs(n) {
 
 <table>
 <tr>
-<td>Consulting Services</td>
-<td>Technology Services</td>
-</tr>
-<tr>
 <td><img src="{{site.url | absolute}}/images/product-2.png"/></td>
-<td><img src="{{site.url | absolute}}/images/product-3.png"/></td>
+<td>Consulting Services <br/>
+Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.</td>
 </tr>
 <tr>
-<td>Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.</td>
-<td></td>
+
+<td><img src="{{site.url | absolute}}/images/product-3.png"/></td>
+<td>Technology Services
+<br/>
+We provide..
+</td>
+
 </tr>
 </table>
 
