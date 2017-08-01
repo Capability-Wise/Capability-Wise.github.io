@@ -5,6 +5,8 @@ title: Capability Wise Pty Ltd- Home
 
 # Digital Transformation..
 
+<div class="content-zone-1">
+<div class="content-block-1">
 ..is more that just creating new websites and APIs.  Digital transformation is about reimagining the way you delivery services to your customers and establishing the right capabilities to consistently exceed their expectations.
 
 <br/>
@@ -13,7 +15,10 @@ Digital transformation should turn you current business processes on their head 
 **Anything short of that is just digitisation.**
 
 <br/><br/>
+</div>
+</div>
 
+<div class="content-zone-2">
 <div class="content-block-1">
 <h2>News and Events</h2>
 
@@ -108,15 +113,11 @@ function showDivs(n) {
 
 </div>
 <br>
-
-
-
-
+</div>
 
 </div>
 
-<br/><br/>
-
+<div class="content-zone-3">
 <div class="content-block-2">
 <h2>Our Services</h2>
 
@@ -154,4 +155,5 @@ Unlike other technology services companies we are not all things to all customer
 </tr>
 </table>
 
+</div>
 </div>
