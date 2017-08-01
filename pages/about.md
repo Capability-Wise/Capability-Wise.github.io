@@ -19,7 +19,7 @@ Matt is an experienced Management Consultant with an extensive background in the
 Matt is also practicing Enterprise and Solution Architect with a focus on B2B and B2G digital transformation and adoption of open standards.
 
 Matt is a certified Scaled Agile Program Consultant (SPC) and is able to provide training and certification services to your organisation.
-<br/>
+<br/><br/>
 ### Joanna Lewis (BComm, GradCert in Org Change)
 [ Director ]
  
@@ -36,6 +36,6 @@ Capability Wise Pty Ltd is a preferred supplier to the Australian Government and
 ## Our Strategic Partnerships
 We have strategic partnerships with the following organisations:
 
-<a href="http://ibm.com.au"><img src="{{site.url|absolute}}/images/IBM_BPMark.jpg" height="100px"/></a>
-<a href="http://eblueprint.com.au"><img src="{{site.url|absolute}}/images/ebp-logo.png" height="100px"/></a>
-<a href="http://pragmapartners.com.au"><img src="{{site.url|absolute}}/images/pragma-logo.png" height="100px"/></a>
+<a href="http://ibm.com.au"><img src="{{site.url|absolute}}/images/IBM_BPMark.jpg" height="100px" style="padding:5px;"/></a>
+<a href="http://eblueprint.com.au"><img src="{{site.url|absolute}}/images/ebp-logo.png" height="100px" style="padding:5px;"/></a>
+<a href="http://pragmapartners.com.au"><img src="{{site.url|absolute}}/images/pragma-logo.png" height="100px" style="padding:5px;"/></a>
