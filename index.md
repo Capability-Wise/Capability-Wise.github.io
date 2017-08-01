@@ -75,7 +75,7 @@ The Digital Business Council has released the Interoperabilty Framework for eInv
 </td>
 </tr>
 </table>
-/div>
+</div>
 
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
@@ -100,24 +100,6 @@ function showDivs(n) {
   var x = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dotObjects");
   if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  for (i = 0; i < dots.length; i++) {
-     dots[i].className = dots[i].className.replace(" w3-white", "");  }
-  x[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " w3-white";
-}
-</script>
-
-</div>
-
-
-<div class="cta-header-img">
-<img src="{{site.url | absolute}}/images/product-3.png"/>
-</div>
-<div class="cta-header">  if (n > x.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = x.length}
   for (i = 0; i < x.length; i++) {
      x[i].style.display = "none";  
