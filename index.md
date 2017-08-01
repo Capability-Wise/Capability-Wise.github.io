@@ -10,11 +10,11 @@ title: Capability Wise Pty Ltd- Home
 <h1>Digital Transformation..</h1>
 
 ..is more that just creating new websites and APIs.  Digital transformation is about reimagining the way you delivery services to your customers and establishing the right capabilities to consistently exceed their expectations.
-
+<br/><br/>
+Digital transformation should turn you current business processes on their head to ensure that you are delighting your customers.
 <br/>
-Digital transformation should turn you current business processes on their head and ensure that you are delighting your customers.
-<br/>
-<b>Anything short of that is just digitisation.</b>
+<br>
+<b><i>Anything short of that is just digitisation.</i></b>
 <br/><br/>
 </div>
 </div>
