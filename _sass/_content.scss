@@ -217,7 +217,7 @@ h3 {
 	}
 
     .cta-frame{
-        	width: 311px;
+        	width: 600px;
         	height: 389px;
 	   	z-index:5;  
 		position:absolute;    
@@ -228,18 +228,20 @@ h3 {
 		 width: 132px;
     		 height: 111px;
 		 top:15px;
-		 left:90px;
+		 left:0px;
 		 z-index:6; 
 		 position:absolute;
 		 float:left;
 	}  
 	.cta-text{
-		width: 260px;
-    		height: 96px;
-		 top:200px;
-		 left:25px;
+		width: 300px;
+    		
+		 top:600px;
+		 left:240px;
 		z-index:6;
 		position:absolute;
+		font-size:16pt;
+		text-align:justify;
 	}
     .cta-header{
                 position: absolute;
@@ -247,8 +249,8 @@ h3 {
                 text-wrap:normal;
 		width: 260px;
     		height: 46px;
-	     	top:140px;
-		left:25px;
+	     	top:15px;
+		left:240px;
     		font-family: 'Arial Bold', 'Arial';
     		font-weight: 700;
     		font-style: normal;
