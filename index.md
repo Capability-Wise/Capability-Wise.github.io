@@ -144,10 +144,12 @@ Our key consulting services include:
 </div>
 
 <div class="cta-action-prompt">
-<p>FIND OUT MORE</p>
+<p><a href="{{site.url|absolute}}/consulting">FIND OUT MORE</a></p>
 </div>
 <div class="cta-action-img">
+<a href="{{site.url|absolute}}/consulting">
 <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"/>
+</a>
 </div>
 </div>
 
@@ -175,10 +177,12 @@ Our two specialties are:
 </div>
 
 <div class="cta-action-prompt">
-<p>FIND OUT MORE</p>
+<p><a href="{{site.url|absolute}}/technology">FIND OUT MORE</a></p>
 </div>
 <div class="cta-action-img">
+<a href="{{site.url|absolute}}/technology">
 <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"/>
+</a>
 </div>
 </div>
 
