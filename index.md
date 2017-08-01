@@ -122,8 +122,9 @@ function showDivs(n) {
 <h2>Our Services</h2>
 
 <div class="call-to-action">
+<div class="cta-wrapper">
 <div class="cta-frame">
-
+</div>
 <div class="cta-header-img"><img src="{{site.url | absolute}}/images/product-2.png"/>
 </div>
 <div class="cta-header">
@@ -151,7 +152,9 @@ Our key consulting services include:
 </div>
 </div>
 
+<div class="cta-wrapper">
 <div class="cta-frame">
+</div>
 
 <div class="cta-header-img">
 <img src="{{site.url | absolute}}/images/product-3.png"/>
