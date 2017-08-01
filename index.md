@@ -164,7 +164,7 @@ Our two specialties are:
 <div class="cta-action-prompt">
 <p>Find Out More</p>
 </div>
-<div class"cta-action-img>
+<div class="cta-action-img">
 <img src="./images/fwd-arrow-icon.png"/>
 </div>
 </div>
