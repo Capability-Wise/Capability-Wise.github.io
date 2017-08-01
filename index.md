@@ -22,7 +22,6 @@ Digital transformation should turn you current business processes on their head 
 <div class="content-zone-2">
 <div class="content-block-1">
 <h2>News and Events</h2>
-
 <div>
 <style>
 .mySlides {display:none}
@@ -48,7 +47,7 @@ text-align:center
 .w3-content{max-width:980px;margin:auto;font-family:Verdana,sans-serif;font-size:15px;line-height:1.5;overflow-x:hidden}
 .w3-container{padding:0.01em 16px}
 .w3-container:after,.w3-container:before{content:"";display:table;clear:both}
-.w3-display-container{border:none;}
+.w3-display-container{position:relative;border:none;background-color:white;}
 </style>
 
 <div class="w3-content w3-display-container" style="max-width:800px;max-height:600px">
