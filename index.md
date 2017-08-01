@@ -144,7 +144,7 @@ Our key consulting services include:
 </div>
 
 <div class="cta-action-prompt">
-<p>Find Out More</p>
+<p>FIND OUT MORE</p>
 </div>
 <div class="cta-action-img">
 <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"/>
@@ -175,7 +175,7 @@ Our two specialties are:
 </div>
 
 <div class="cta-action-prompt">
-<p>Find Out More</p>
+<p>FIND OUT MORE</p>
 </div>
 <div class="cta-action-img">
 <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"/>
