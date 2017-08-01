@@ -3,10 +3,12 @@ layout: default
 title: Capability Wise Pty Ltd- Home
 ---
 
-# Digital Transformation..
 
 <div class="content-zone-1">
 <div class="content-block-1">
+
+<h1>Digital Transformation..</h1>
+
 ..is more that just creating new websites and APIs.  Digital transformation is about reimagining the way you delivery services to your customers and establishing the right capabilities to consistently exceed their expectations.
 
 <br/>
