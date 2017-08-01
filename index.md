@@ -146,7 +146,8 @@ Our key consulting services include:
 <div class="cta-frame">
 
 <div class="cta-header-img">
-<img src="{{site.url | absolute}}/images/product-3.png"/></td>
+<img src="{{site.url | absolute}}/images/product-3.png"/>
+</div>
 <div class="cta-header">
 <h3>Technology Services</h3>
 </div>
