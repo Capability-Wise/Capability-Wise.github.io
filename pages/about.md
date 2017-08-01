@@ -19,6 +19,8 @@ Matt is an experienced Management Consultant with an extensive background in the
 Matt is also practicing Enterprise and Solution Architect with a focus on B2B and B2G digital transformation and adoption of open standards.
 
 Matt is a certified Scaled Agile Program Consultant (SPC) and is able to provide training and certification services to your organisation.
+
+<a href="mailto:admin@capabilitywise.com.au">Click here to contact Matt.</a>
 <br/><br/>
 ### Joanna Lewis (BComm, GradCert in Org Change)
 [ Director ]
