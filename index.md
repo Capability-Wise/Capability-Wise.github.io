@@ -140,8 +140,11 @@ Our key consulting services include:
 <b>Find Out More --></b>
 </td>
 </tr>
+</table>
+</div>
+<div class="content-block-2">
+<table>
 <tr>
-
 <td><img src="{{site.url | absolute}}/images/product-3.png"/></td>
 <td>Technology Services
 <br/>
