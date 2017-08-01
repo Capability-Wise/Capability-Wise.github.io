@@ -21,19 +21,27 @@
 
   .content-zone-1{
 	background-color: #fff;	 
+	  
+	  .content-block-1{
+	 	max-width:80%;
+	}
    }
 	
   .content-zone-2{
 	background-color: #fff;	 
+	  .content-block-1{
+	 	max-width:80%;
+	}
    }
 	
   .content-zone-3{
         background-color: $cw-secondary-5;      
-   }
-	
-	content-block-1{
+	  .content-block-1{
 	 	max-width:80%;
 	}
+   }
+	
+	
 	
   .home{
       line-height:normal;
