@@ -199,26 +199,3 @@ Our two specialties are:
 </div>
 </div>
 
-<h3>Technology Services</h3>
-</div>
-
-<div class="cta-text">
-Unlike other technology services companies we are not all things to all customers.  We have specialised on two niche offerings that enable us to provide leading edge solutions to our customers at the best possible price point.  
-<br/>
-Our two specialties are:
-<ul>
-<li>Blockchain; and </li>
-<li>APIs and Microservices.</li>
-</ul>
-</div>
-
-<div class="cta-action-prompt">
-<p>Find Out More</p>
-</div>
-<div class="cta-action-img">
-<img src="./images/fwd-arrow-icon.png"/>
-</div>
-</div>
-
-</div>
-</div>
