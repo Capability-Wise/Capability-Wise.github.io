@@ -75,7 +75,7 @@ The Digital Business Council has released the Interoperabilty Framework for eInv
 </td>
 </tr>
 </table>
-</div>
+/div>
 
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
@@ -119,7 +119,7 @@ function showDivs(n) {
 </div>
 
 <div class="content-zone-3">
-<div class="content-block-2">
+<div class="content-block-1">
 <h2>Our Services</h2>
 
 <table>
