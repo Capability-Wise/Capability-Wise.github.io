@@ -11,9 +11,8 @@ title: Capability Wise Pty Ltd- Home
 
 <br/>
 Digital transformation should turn you current business processes on their head and ensure that you are delighting your customers.
-
-**Anything short of that is just digitisation.**
-
+<br/>
+<b>Anything short of that is just digitisation.</b>
 <br/><br/>
 </div>
 </div>
