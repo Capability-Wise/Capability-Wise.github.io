@@ -142,22 +142,29 @@ Our key consulting services include:
 </tr>
 </table>
 </div>
-<div class="content-block-2">
-<table>
-<tr>
-<td><img src="{{site.url | absolute}}/images/product-3.png"/></td>
-<td>Technology Services
-<br/>
+<div class="call-to-action">
+<div class="cta-frame">
+
+<div class="cta-header-img">
+<img src="{{site.url | absolute}}/images/product-3.png"/></td>
+<div class="cta-header">
+<h3>Technology Services</h3>
+</div>
+
+<div class="cta-text">
 Unlike other technology services companies we are not all things to all customers.  We have specialised on two niche offerings that enable us to provide leading edge solutions to our customers at the best possible price point.  OUr tow specialties are:
+
 <ul>
 <li>Blockchain; and </li>
 <li>APIs and Microservices.</li>
 </ul>
+</div>
 
-</td>
+<div class="cta-action-prompt">
+<p>Find Out More</p>
+</div>
 
-</tr>
-</table>
+</div>
 
 </div>
 </div>
