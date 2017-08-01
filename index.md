@@ -133,7 +133,7 @@ function showDivs(n) {
 
 <div class="cta-text">
 Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.
-<br/>
+<br/><br/>
 Our key consulting services include:
 <ul>
 <li>Digital Strategy and Execution</li>
@@ -164,8 +164,10 @@ Our key consulting services include:
 </div>
 
 <div class="cta-text">
-Unlike other technology services companies we are not all things to all customers.  We have specialised on two niche offerings that enable us to provide leading edge solutions to our customers at the best possible price point.  
-<br/>
+Unlike other technology services companies we are not all things to all customers.  
+<br/></br/>
+We have specialised on two niche offerings that enable us to provide leading edge solutions to our customers at the best possible price point.  
+<br/><br/>
 Our two specialties are:
 <ul>
 <li>Blockchain; and </li>
