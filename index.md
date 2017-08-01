@@ -131,7 +131,7 @@ function showDivs(n) {
 </div>
 
 <div class="cta-text">
-Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.
+Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear strategy, through execution, and ultimately establishment of the appropriate capabilities to sustain your market advantage.
 <br/><br/>
 Our key consulting services include:
 <ul>
