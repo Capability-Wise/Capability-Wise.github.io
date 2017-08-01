@@ -66,19 +66,10 @@ Our Managing Director, Matt Lewis will be presenting at the WSO2 Sydney Summit 2
 </table>
 </div>
 
-<div class="mySlides" style="text-align:center;">
-<table>
-<tr>
-<td>
-The Digital Business Council has released the Interoperabilty Framework for eInvoicing.
-</td>
-</tr>
-</table>
-</div>
 
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
-    <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+
   </div>
 </div>
   
