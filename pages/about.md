@@ -10,7 +10,7 @@ Capability Wise Pty Ltd is an Australian Company specialising in management cons
 <br/>
 ## Our Executive Team
 
-<img src="{{site.url | absolute}}\images\ml-photo.jpg" style="float:left"/> 
+<img src="{{site.url | absolute}}\images\ml-photo.jpg" style="float:left; padding-right:5px;"/> 
 ### Matt Lewis (BComm - BComp)
 [ Managing Director ]
 
