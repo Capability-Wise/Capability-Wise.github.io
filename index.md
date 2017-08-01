@@ -112,6 +112,24 @@ function showDivs(n) {
 </script>
 
 </div>
+
+
+<div class="cta-header-img">
+<img src="{{site.url | absolute}}/images/product-3.png"/>
+</div>
+<div class="cta-header">  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+     dots[i].className = dots[i].className.replace(" w3-white", "");  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-white";
+}
+</script>
+
+</div>
 <br>
 </div>
 
@@ -121,10 +139,16 @@ function showDivs(n) {
 <div class="content-block-1">
 <h2>Our Services</h2>
 
-<table>
-<tr>
-<td><img src="{{site.url | absolute}}/images/product-2.png"/></td>
-<td><b>Consulting Services</b><br/>
+<div class="call-to-action">
+<div class="cta-frame">
+
+<div class="cta-header-img"><img src="{{site.url | absolute}}/images/product-2.png"/>
+</div>
+<div class="cta-header">
+<h3>Consulting Services</H3>
+</div>
+
+<div class="cta-text">
 Capability Wise can assist with all your digital transformation needs.  We provide consulting services across the full transformation lifecycle from helping you establish a clear vision, through to execution of your transformation strategy, and ultimately establishment of the appropriate capabilities to sustain your market advantage.
 <br/>
 Our key consulting services include:
@@ -135,19 +159,46 @@ Our key consulting services include:
 <li>Standards Adoption and Cross-Industry Interoperability</li>
 <li>Business Process Reinvention</li>
 </ul>
-
-<b>Find Out More --></b>
-</td>
-</tr>
-</table>
 </div>
-<div class="call-to-action">
+
+<div class="cta-action-prompt">
+<p>Find Out More</p>
+</div>
+<div class="cta-action-img">
+<img src="./images/fwd-arrow-icon.png"/>
+</div>
+</div>
+
 <div class="cta-frame">
 
 <div class="cta-header-img">
 <img src="{{site.url | absolute}}/images/product-3.png"/>
 </div>
 <div class="cta-header">
+<h3>Technology Services</h3>
+</div>
+
+<div class="cta-text">
+Unlike other technology services companies we are not all things to all customers.  We have specialised on two niche offerings that enable us to provide leading edge solutions to our customers at the best possible price point.  
+<br/>
+Our two specialties are:
+<ul>
+<li>Blockchain; and </li>
+<li>APIs and Microservices.</li>
+</ul>
+</div>
+
+<div class="cta-action-prompt">
+<p>Find Out More</p>
+</div>
+<div class="cta-action-img">
+<img src="./images/fwd-arrow-icon.png"/>
+</div>
+</div>
+
+</div>
+</div>
+
 <h3>Technology Services</h3>
 </div>
 
