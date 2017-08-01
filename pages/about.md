@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # About Us
-Capability Wise Pty Ltd is an Australian Company specialising in management consulting services for Australian Government Agencies.
+Capability Wise Pty Ltd is an Australian Company specialising in management consulting services for Australian Government Agencies and large corporate clients.
 
 <br/>
 ## Our Executive Team
