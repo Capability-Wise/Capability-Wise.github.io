@@ -207,14 +207,14 @@ h3 {
 
 	.cta-wrapper{
 		width:900px;
-		height:400px;
+		min-height:400px;
 		position:relative;
 		margin:auto;
 	}
 
     .cta-frame{
         	width: 900px;
-        	height: 389px;
+        	min-height: 389px;
 	   	z-index:5;  
 		position:absolute;    
 	     	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
