@@ -105,8 +105,7 @@ function showDivs(n) {
      x[i].style.display = "none";  
   }
   for (i = 0; i < dots.length; i++) {
-     dots[i].className = dots[i].className.replace(" w3-white", "");
-  }
+     dots[i].className = dots[i].className.replace(" w3-white", "");  }
   x[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " w3-white";
 }
@@ -153,8 +152,9 @@ Our key consulting services include:
 </div>
 
 <div class="cta-text">
-Unlike other technology services companies we are not all things to all customers.  We have specialised on two niche offerings that enable us to provide leading edge solutions to our customers at the best possible price point.  OUr tow specialties are:
-
+Unlike other technology services companies we are not all things to all customers.  We have specialised on two niche offerings that enable us to provide leading edge solutions to our customers at the best possible price point.  
+<br/>
+Our two specialties are:
 <ul>
 <li>Blockchain; and </li>
 <li>APIs and Microservices.</li>
@@ -164,7 +164,9 @@ Unlike other technology services companies we are not all things to all customer
 <div class="cta-action-prompt">
 <p>Find Out More</p>
 </div>
-
+<div class"cta-action-img>
+<img src="./images/fwd-arrow-icon.png"/>
+</div>
 </div>
 
 </div>
