@@ -19,6 +19,7 @@ Digital transformation should turn you current business processes on their head 
 </div>
 </div>
 
+<!--
 <div class="content-zone-2">
 <div class="content-block-1">
 <h2>News and Events</h2>
@@ -106,6 +107,7 @@ function showDivs(n) {
 </div>
 
 </div>
+-->
 
 <div class="content-zone-3">
 <div class="content-block-1">
