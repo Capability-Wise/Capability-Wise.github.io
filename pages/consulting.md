@@ -25,7 +25,7 @@ Technology is often the easy part.  Effectively managing the people involved i
 <br/><br/>
 
 ## Enterprise Agility
-We are speccialists applying agile techniques at scale, this is where most organisations come unstuck on their agile journey.  We also have extensive experience applying agile techniques within line of business areas to increase productivity and transparency.  
+We are specialists applying agile techniques at scale, this is where most organisations come unstuck on their agile journey.  We also have extensive experience applying agile techniques within line of business areas to increase productivity and transparency.  
 
 <a href="mailto:admin@capabilitywise.com.au">Get Agile today.</a>
 <br/><br/>
