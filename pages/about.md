@@ -34,10 +34,3 @@ Capability Wise Pty Ltd is a preferred supplier to the Australian Government and
 + [Department of Infrastructure and Regional Development - IT Services Panel](https://www.tenders.gov.au/?event=public.panel.show&PanelUUID=09936C50-D98A-7B6F-5202E28B31A3B295&agency=E0829BED-EA12-09F4-A20B44A193CAF72B)
 + [Digital Transformation Agency - Digital Marketplace](https://marketplace.service.gov.au/)
 
-<br/>
-## Our Strategic Partnerships
-We have strategic partnerships with the following organisations:
-
-<a href="http://ibm.com.au"><img src="{{site.url|absolute}}/images/IBM_BPMark.jpg" height="100px" style="padding:5px;"/></a>
-<a href="http://eblueprint.com.au"><img src="{{site.url|absolute}}/images/ebp-logo.png" height="100px" style="padding:5px;"/></a>
-<a href="http://pragmapartners.com.au"><img src="{{site.url|absolute}}/images/pragma-logo.png" height="100px" style="padding:5px;"/></a>
