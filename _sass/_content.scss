@@ -324,7 +324,7 @@ h3 {
 	.cta-text{
 		width: 75%;
     		top:60px;
-		left:240px;
+		left:40px;
 		z-index:6;
 		position:absolute;
 		font-size:18px;
@@ -334,7 +334,7 @@ h3 {
                 position: absolute;
                 line-height: normal;
                 text-wrap:normal;
-		width: 650px;
+		width: 80%;
     		height: 46px;
 	     	top:15px;
 		left:5px;
@@ -349,7 +349,7 @@ h3 {
 	
 	.cta-hr {
                 position: absolute;
-		width: 260px;
+		width: 80%;
     		height: 1px;
 		 top:320px;
 		 left:25px;
@@ -374,7 +374,7 @@ h3 {
 
 	.cta-action-img {
             position: absolute;
-		 top:361px;
+		 bottom:15px;
 		 right:15px;
             display: block;
             line-height: normal;
