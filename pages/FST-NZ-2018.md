@@ -11,7 +11,7 @@ Did you attend FST NZ 2018?  If the answer is yes, then you are eligible for a 5
 
 All you have to do is provide us with you registration details.  <br><br>
 
-###Want a better deal?  Then take a selfie in front of our booth, post it on LinkedIn and tag "@Capability Wise Pty Ltd" and we will give you 10% of your next engagement.
+### Want an even better deal?  Then take a selfie in front of our booth, post it on LinkedIn and tag "@Capability Wise Pty Ltd" and we will give you 10% of your next engagement.
 
 <a href="mailto:admin@capabilitywise.com.au">Contact us today to discuss how we can help you achieve your technology objectives.</a>
 <br/><br/>
