@@ -9,12 +9,16 @@ permalink: /fst-nz-2018/
 ## Special Offer
 Did you attend FST NZ 2018?  If the answer is yes, then you are eligible for a 5% discount on any of our key services.  
 
-All you have to do is provide us with you registration details.  <br><br>
+All you have to do is provide us with you registration details.  
+
+<a href="mailto:admin@capabilitywise.com.au">Contact us today to discuss how we can help you achieve your technology objectives.</a>
+
+<br><br>
 
 ### Want an even better deal?  
 Then take a selfie in front of our booth, post it on LinkedIn and tag "@Capability Wise Pty Ltd" and we will give you 10% of your next engagement.
 
-<a href="mailto:admin@capabilitywise.com.au">Contact us today to discuss how we can help you achieve your technology objectives.</a>
+
 <br/><br/>
 ## Didn't get a chance to speak with us at FST?
 We're sorry we missed you at FST NZ 2018, but that doesn't mean we shouldn't catch up after the event.
