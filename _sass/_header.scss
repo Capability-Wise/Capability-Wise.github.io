@@ -177,7 +177,7 @@
       left: 0;
       right: 0;
       height: 4px;
-      background: $cw-secondary-1;
+      background: $cw-primary-1;
 
       &::before,
       &::after {
@@ -187,7 +187,7 @@
         width: 100%;
         height: 4px;
 
-        background-color: $cw-secondary-1;
+        background-color: $cw-primary-1;
         content: "";
       }
 
