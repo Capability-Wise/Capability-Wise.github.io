@@ -298,14 +298,14 @@ h3 {
 
  @media (max-width: 767px){
 	 .cta-wrapper{
-		width:80%;
+		width:100%;
 		min-height:400px;
 		position:relative;
 		margin:auto;
 	}
 
     .cta-frame{
-        	width: 80%;
+        	width: 98%;
         	min-height: 389px;
 	   	z-index:5;  
 		position:relative;    
@@ -316,19 +316,19 @@ h3 {
 		 display:none;
 	}  
 	.cta-text{
-		width: 80%;
+		width: 94%;
     		top:60px;
-		left:10px;
+		left:5px;
 		z-index:6;
 		position:absolute;
-		font-size:18px;
+		font-size:16px;
 		text-align:justify;
 	}
     .cta-header{
                 position: absolute;
                 line-height: normal;
                 text-wrap:normal;
-		width: 80%;
+		width: 94%;
     		height: 46px;
 	     	top:15px;
 		left:5px;
@@ -343,7 +343,7 @@ h3 {
 	
 	.cta-hr {
                 position: absolute;
-		width: 80%;
+		width: 94%;
     		height: 1px;
 		 top:320px;
 		 left:25px;
