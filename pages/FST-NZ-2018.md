@@ -7,9 +7,9 @@ permalink: /fst-nz-2018/
 # FST New Zealand 2018 / FST Adelaide 2018
 
 ## Special Offer
-Did you attend FST NZ or FST Adelaide 2018?  If the answer is yes, then you are eligible for a 5% discount on any of our key services.  
+Did you attend FST NZ or FST Adelaide 2018?  
 
-All you have to do is provide us with you registration details.  
+If the answer is yes, then you are eligible for a 5% discount on any of our key services.  All you have to do is provide us with you registration details.  
 
 <a href="mailto:admin@capabilitywise.com.au">Contact us today to discuss how we can help you achieve your technology objectives.</a>
 
