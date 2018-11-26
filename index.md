@@ -129,10 +129,8 @@ Capability Wise can assist with all your digital transformation needs.  We provi
 Our key consulting services include:
 <ul>
 <li>Digital Strategy and Execution</li>
-<li>Digital Transformation Planning</li>
 <li>Enterprise Agility</li>
 <li>Standards Adoption and Cross-Industry Interoperability</li>
-<li>Business Process Reinvention</li>
 </ul>
 </div>
 
