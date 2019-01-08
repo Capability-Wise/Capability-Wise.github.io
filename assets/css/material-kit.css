@@ -2281,7 +2281,7 @@ select.form-control[multiple], .form-group.is-focused select.form-control[multip
   height: 50px;
   line-height: 30px;
   color: inherit;
-  padding: 10px 15px;
+  padding: 0px 15px;
 }
 .navbar .navbar-brand:hover, .navbar .navbar-brand:focus {
   color: inherit;
@@ -2706,7 +2706,7 @@ select.form-control[multiple], .form-group.is-focused select.form-control[multip
   }
   .navbar .navbar-brand {
     height: 50px;
-    padding: 10px 15px;
+    padding: 0px 15px;
   }
   .navbar .navbar-nav > li > a {
     padding-top: 15px;
