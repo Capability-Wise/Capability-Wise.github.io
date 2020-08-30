@@ -1,8 +1,3 @@
-<meta property='og:title' content='{{ page.title }}'/>
-<meta property='og:image' content='{{ page.excerpt-image | absolute_url}}'/>
-<meta property='og:description' content='{{ page.excerpt | strip_html }}'/>
-<meta property='og:url' content='{{ page.excerpt | strip_html }}'/>
-
 	<div class="page-header header-filter" data-parallax="true" style="background-image: url({{page.excerpt-image}});">
 		<div class="container">
 			<div class="row">
@@ -27,7 +22,6 @@
                     <i>{{ page.date | date: "%a, %d %b %Y" }} &nbsp;</i>
                     <a href="http://m.facebook.com/sharer.php?u={{ page.url | absolute_url }}&t={{ page.title }}&sv={{ page.excerpt-image | absolute_url}})"><span style="font-size: 2rem;"><i class="fa fa-facebook-square"></i></span></a>
                     <a href="https://twitter.com/share?text={{ page.title }}&url={{ page.url | absolute_url }}"><span style="font-size: 2rem;"><i class="fa fa-twitter-square"></i></span></a>
-                 <!--   <a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ page.excerpt | strip_html }}&title={{ page.title }}&url={{ page.excerpt | strip_html }}"><span style="font-size: 2rem;"><i class="fa fa-linkedin-square"></i></span></a> -->
 
 <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}"><span style="font-size: 2rem;"><i class="fa fa-linkedin-square"></i></span></a>
 
