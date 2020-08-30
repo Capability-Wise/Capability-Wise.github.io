@@ -1,0 +1,178 @@
+---
+layout: default
+title: Capability Wise Pty Ltd - Privacy Policy
+---
+
+<div class="main" id="privacyPolicy">
+<div class="section">
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1 text-center">
+<h2 class="title">Privacy Policy</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-md-10 col-md-offset-1 text-left">
+<h3 class="description">1. Purpose, Application and Scope</h3>
+<h4 class="description">1.1 Application</h4>
+			<p>This privacy policy applies to any and all personal information that ‘You’ provide to Capability Wise Pty Ltd. (‘Us’/’We’/’Our’) from time to time. <br><br>
+			By providing us with personal information, You consent to Us collecting, holding, using and disclosing that personal information in accordance with this Privacy Policy as amended and published by Us from time to time.
+			</p>
+			<h4 class="description">
+				1.2 Purpose and Scope
+			</h4>
+			<p> We are committed to complying with its obligations under the applicable privacy legislation and rules. <br><br>
+			This Privacy Policy sets out the following matters:<br>
+			(a) The kinds of personal information that We may collect and hold;<br>
+			(b) How We collect and hold that personal information;<br>
+			(c) The purposes for which We collect, hold, use and disclose that personal information;<br>
+			(d) How You may access the personal information that We hold on You, and how You may apply to have that personal information corrected;<br>
+			(e) In what circumstances Your personal information might be held or disclosed overseas; and <br>
+			(f) How You may lodge a complaint about a breach of privacy in respect of Your personal information and how We will deal with such a complaint.<br>
+			</p>
+ 			<h3 class="description">
+				2. What type of personal information do we collect?
+			</h3>
+			<p> We may collect and hold some or all of the following personal information about You:<br><br>
+			(a) Your name, address, occupation, employer and the position You hold with that employer;<br>
+			(b) Your contact details such as telephone number, address, business address and email address;<br>
+			(c) Details of Your business (if applicable), including Your ABN;<br>
+			(d) Financial information relating to payments made by You to Us (including credit card details and / or bank account details);<br>
+			(e) Comments or submissions posted on our website or otherwise provided to Us by You; and<br>
+			(f) any other personal information which we reasonably require;<br>	
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) in Your dealings with Capability Wise;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) in order to provide You with a service or product offered by Us; or<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) in order to carry out a function of Capability Wise.<br><br>
+			Any financial information that Capability Wise collects from You will be collected and held by secure means and will be destroyed and / or deleted upon conclusion of Your dealings with Us.
+			</p>
+			<h3 class="description">
+				3. How does Capability Wise collect and hold that information?
+			</h3>
+			<h4 class="description">
+				3.1 Collection
+			</h4>
+			<p>We may collect personal information directly from You:<br><br>
+			(a) during dealings with You in person;<br>
+			(b) when You submit information to Us either through our website or by other means; or<br>
+			(c) otherwise in connection with Us providing You with a product or service or otherwise in carrying out its functions.<br><br>
+			Capability Wise may also collect personal information about You from third parties, including your employer among others.
+			</p>
+			<h4 class="description">
+				3.2 Website Cookies and similar means
+			</h4>
+			<p> We may use internet cookies on our website or through any electronic application offered by Us, to track user traffic patterns and to collect and store other information in respect of Your use of the website. By not disabling cookies in Your browser, You consent to Us collecting and storing such information. For further information, please refer to our <a href="/cookies.html">‘Use of Cookies Guide’</a>.
+			</p>
+			<h4 class="description">
+				3.3 Storage
+			</h4>
+			<p> Your personal information may be held in hard copy or electronic storage facilities / databases (Cloud), or by a combination of those means.<br><br>
+			In all cases of storage of Your personal information, We will employ reasonable security measures in order to protect Your personal information from unauthorised access, use or disclosure.
+			</p>
+			<h3 class="description">
+				4. Why do we collect, use and disclose Your personal information?
+			</h3>
+			<h4 class="description">
+				4.1 Purpose of Collection and Use
+			</h4>
+			<p> The purposes for which We collect, hold, use and disclose Your personal information are as follows:<br><br>
+			(a) To identify You;<br>
+			(b) To provide You with products and / or services that You request from Us from time to time and to assist You with any enquiries You may have;<br>
+			(c) To promote our products and / or services to You;<br>
+			(d) To provide You with information, correspondence and other documents; and<br>
+			(e) To otherwise carry out Our functions.<br><br>
+			Capability Wise will use and disclose the personal information that You provide to Us for the purposes set out above and as otherwise notified by Us to You at the time of collecting that personal information. We will also use and disclose Your Personal Information as otherwise set out in this Privacy Policy or authorised or required by the law.
+			</p>
+			<h4 class="description">
+				4.2 Disclosure to third parties
+			</h4>
+			<p>From time to time We may disclose Your personal information to third parties, including without limitation our related bodies corporate, service providers, contractors or professional advisors, as follows:<br><br>
+				(a) To provide You with the Goods and / or Services requested by You;<br>
+				(b) To promote our other goods and services to You;<br>
+				(c) For any other purposes identified in this Privacy Policy or authorised or required by the law.<br>
+			</p>
+			<h4 class="description">
+				4.3 Direct Marketing
+			</h4>
+			<p> Unless otherwise expressly requested by You, We may use or disclose Your personal information to provide You with direct marketing material.<br><br>
+			That marketing material may include information on Capability Wise’s products and / or services, or the products and / or services of third parties that We think may be of use or interest to You.<br><br>
+			We will provide You with means by which You may choose to opt-out of receiving any such direct marketing materials.
+			</p>
+			<h3 class="description">
+				5. How can I access my personal information?
+			</h3>
+			<p> Unless an exception applies under the law, We will provide You with access to the personal information We hold about You upon receiving a request from You in writing, addressed to one of the contact details provided below.<br><br>
+			Prior to complying with a request for access received from You, We may require that You provide Us with proof of Your identity, and payment for any reasonable costs that We will incur in complying with Your request.<br><br>
+			You may correct any of Your personal information that We hold, by sending a request in writing to the contact details listed below. You must update Your personal information held by Us within a reasonable time of any change occurring.<br>
+			</p>
+			<h3 class="description">
+				6. In what circumstances will my personal information be sent overseas?
+			</h3>
+			<h4 class="description">
+				6.1 Cloud Based Storage
+			</h4>
+			<p> Capability Wise may utilise Cloud based storage solutions, which could result in your personal information being stored on a server located overseas.
+			</p>
+			<h3 class="description">
+				7. Can I lodge a complaint?
+			</h3>
+			<p> You may lodge a complaint regarding breach of this policy or the privacy legislation / rules that We are bound to comply with, by making a complaint in writing addressed to one of the below contact details.<br><br>
+			Upon receiving Your complaint, it will be referred to Capability Wise’s Privacy Officer for consideration and a response. We will endeavour to provide You with a response to Your complaint within 14 days of receipt of Your complaint, or within a further reasonable period of time.<br><br>
+			We may refer Your complaint to a third party such as the Capability Wise’s professional or legal advisers, in order to obtain advice in relation to the complaint received.<br><br>
+			We will take all reasonable steps available to it to resolve Your complaint and any issues which arise from our failure to comply with Our obligations under any applicable privacy legislation or rules to which We are bound.<br><br>
+			</p>
+			<h3 class="description">
+				8. How do I contact Capability Wise in relation to my personal information?
+			</h3>
+			<p> If You wish to update Your personal information, access Your personal information or if You wish to lodge a complaint regarding how We have handled Your personal information, please contact the Capability Wise’s Privacy Officer via the below details:</p>
+<p>
+&nbsp;<b>Postal Address:</b><br/>
+&nbsp;The Privacy Officer,<br/>
+&nbsp;Capability Wise Pty Ltd,<br/>
+&nbsp;4/32 Heffernan St, Mitchell ACT 2911<br/><br/>
+&nbsp;<b>Email Address:</b><br/>
+&nbsp;<a href="mailto:admin@capabilitywise.com.au">admin@capabilitywise.com.au</a>
+</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="contactus-1 section-image" style="background-image: url('assets/img/bg12.jpg')" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <h2 class="title">Get in Touch</h2>
+                    <h5 class="description">You need more information?</h5>
+                    <div class="info info-horizontal">
+                        <div class="icon icon-primary">
+                            <i class="material-icons">pin_drop</i>
+                        </div>
+                        <div class="description">
+                            <h4 class="info-title">Find us at the office</h4>
+                            <p>
+                                4/32 Heffernan St.<br>
+                                Mitchell, ACT. 2911<br>
+                                Australia
+                            </p>
+                        </div>
+                    </div>
+                    <div class="info info-horizontal">
+                        <div class="icon icon-primary">
+                            <i class="material-icons">phone</i>
+                        </div>
+                        <div class="description">
+                            <h4 class="info-title">Give us a call</h4>
+                            <p>
+                                Matt Lewis<br>
+                                (+61) 422 568 084<br>
+                                Mon - Fri, 8:30-5:00
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--     *********    END CONTACT US      *********      -->

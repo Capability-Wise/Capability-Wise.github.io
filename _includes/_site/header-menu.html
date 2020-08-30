@@ -1,0 +1,7 @@
+{% assign current = page.url | downcase | split: '/' %}
+<ul class="header-menu">
+    <li><a {% if page.url == '/' %}class="active"{% endif %} href="/">Home</a></li>
+    <li><a {% if current[1] == 'consulting' %}class="active"{% endif %} href="/consulting/">Consulting Services</a></li>
+    <li><a {% if current[1] == 'technology' %}class="active"{% endif %} href="/technology/">Technology Services</a></li>
+    <li><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/">About Us</a></li>
+</ul>
