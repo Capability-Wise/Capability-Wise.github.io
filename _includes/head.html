@@ -20,6 +20,14 @@
 <meta property='og:description' content='{{ page.excerpt | strip_html }}'/>
 <meta property='og:url' content='{{ page.url | absolute_url }}'/>
 
+<meta name="twitter:card" content="{{ page.excerpt | strip_html }}" />
+<!-- <meta name="twitter:site" content="@flickr" /> -->
+<meta name="twitter:title" content="{{ page.title }}" />
+<!-- <meta name="twitter:description" content="View the album on Flickr." /> -->
+<meta name="twitter:image" content="{{ page.excerpt-image | absolute_url}}" />
+
+
+
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
