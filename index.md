@@ -41,9 +41,9 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">Digital Strategy &amp; Execution</h4>
 							<p>Digital transformation is about doing business in a contemporary way. Revolutionise your customer’s digital experience. <br />Let us help you establish a benefit and value driven digital strategy that will enable your customers and staff.</p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#digitalStrategyModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#digitalStrategyModal">
 									<i class="material-icons">info_outline</i> More..
-								</button>
+								</button> -->
 							</div>
 						</div>
 					</div>
@@ -55,9 +55,9 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">Digital Transformation Planning</h4>
 							<p>Not sure where to focus your efforts? <br />Our capability-based planning techniques can help improve ROI across your service delivery teams. Planning complex projects and programmes is our forte and we can prepare your next major initiative for success. </p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#digitalTransModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#digitalTransModal">
 									<i class="material-icons">info_outline</i> More..
-								</button>
+								</button> -->
 							</div>
 						</div>
 					</div>
@@ -69,9 +69,9 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">Enterprise Agility</h4>
 							<p>We are specialists applying agile techniques at scale, this is where most organisations come unstuck on their agile journey. We also have extensive experience applying agile techniques within line of business areas to increase productivity and transparency.</p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#entAgilityModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#entAgilityModal">
 									<i class="material-icons">info_outline</i> More..
-								</button>
+								</button> -->
 							</div>
 						</div>
 					</div>
@@ -85,9 +85,9 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">Standards Adoption</h4>
 							<p>Our consultants can provide expert guidance on the pragmatic adoption of open technology standards and the establishment of cross-industry interoperability framework. We have the scars of experience and can help you avoid the common pitfalls. We also undertake market maturity assessments to provide you with an informed position prior to embarking on a large scale standardisation project.</p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#stdsAdoptionModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#stdsAdoptionModal">
 									<i class="material-icons">info_outline</i> More..
-								</button>
+								</button> -->
 							</div>
 						</div>
 					</div>
@@ -99,9 +99,9 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">Business Process Reinvention</h4>
 							<p>Our consultants are user-centred design and business architecture specialists. We apply UCD techniques to reimagine your business processes and service offerings. We engage directly with your stakeholder groups and can provide the insights, that your customers often won’t provide directly to you, particularly if your organisation is a government agency.</p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#bpReinventionModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#bpReinventionModal">
 									<i class="material-icons">info_outline</i> More..
-								</button>
+								</button> -->
 							</div>
 						</div>
 					</div>
@@ -113,9 +113,9 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">Change Management</h4>
 							<p>Change can be disruptive and uncomfortable. Managing change effectively can help ensure your new system implementation, strategic direction, process adjustment, or entire business restructure is successful. Capability Wise provides end-to-end change consulting for the delivery of organisational, technology and cultural change.</p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#changeMgtModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#changeMgtModal">
 									<i class="material-icons">info_outline</i> More..
-								</button>
+								</button> -->
 							</div>
 						</div>
 					</div>
@@ -145,9 +145,10 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">Blockchain</h4>
 							<p>Blockchain and distributed ledger technologies are currently some of the most hyped technologies in the marketplace. Most people recognise that blockchain is an important technology but very few organisations know how and when to use blockchain technologies.</p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#blockchainModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#blockchainModal">
 									<i class="material-icons">info_outline</i> More..
-								</button></div></div></div>
+								</button> -->
+							</div></div></div>
 					<div class="col-md-5" id="apiServices">
 						<div class="info">
 							<div class="icon icon-info">
@@ -156,9 +157,9 @@ title: Capability Wise Pty Ltd - Home
 							<h4 class="info-title">APIs &amp; Microservices</h4>
 							<p>The API Economy and Microservices are hot topics at the moment. Organisations can get it so right… or so wrong! Good API design isn’t as simple as throwing together a quick ReST/JSON API and spinning it up inside a container.</p>
 							<div class="col-md-6 col-md-offset-3">
-								<button class="btn btn-primary btn-block" data-toggle="modal" data-target="#apisModal">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#apisModal">
 									<i class="material-icons">info_outline</i> More..
-								</button>
+								</button> -->
 </div></div></div></div></div></div></div>
 
 <!-- ********* START TEAM ********* -->
@@ -432,3 +433,292 @@ I'm not a robot
 </div>
 </div>
 <!-- ********* END CONTACT US ********* -->
+
+<!-- Digital Strategy modal -->
+<div class="modal fade" id="digitalStrategyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">Digital Strategy &amp; Execution</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Digital transformation is about doing business in a contemporary way.</p>
+                                <p>Revolutionise your customer’s digital experience.</p>
+                                <p>Establishing stakeholder buy-in to an organisation’s new digital strategy is becoming harder as organisations struggle to deliver the forecast beneﬁts.</p>
+                            </div>
+                            <!--<div class="col-md-4">
+                                <div class="picture">
+                                    <img src="assets/img/dg2.jpg" alt="Thumbnail Image" class="img-rounded img-responsive">
+                                </div>
+                            </div>-->
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p><strong>So why is it so difficult?</strong></p>
+                                <ul>
+                                    <li>Some stakeholders don’t understand the vision.</li>
+                                    <li>Few stakeholders actually read a multi-page strategy document.</li>
+                                    <li>Some stakeholders can’t envisage the change. </li>
+                                    <li>Many strategies don’t account for the organisation’s true starting point.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Capability Wise can guide your organisation to establish a pragmatic digital strategy and give you the tools to help your executive team, staﬀ and users to understand the future-state experience.</p>
+                                <p><a href="mailto:sales@capabilitywise.com.au">Get in contact</a> with us today to start the discussion on how we can help you.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end Digital Strategy modal -->
+<!-- Digital Transformation Planning modal -->
+<div class="modal fade" id="digitalTransModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">Digital Transformation Planning</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Technology is often the easy part of digital transformation. Effectively managing the people involved in the change is often the most poorly executed part of a large project or programme. We will combine these elements to provide a holistic transformation plan.</p>
+                                <p>Revolutionise your customer’s digital experience.</p>
+                                <p>Establishing stakeholder buy-in to an organisation’s new digital strategy is becoming harder as organisations struggle to deliver the forecast beneﬁts.</p>
+                            </div>
+                            <!--<div class="col-md-4">
+                                <div class="picture">
+                                    <img src="assets/img/dg2.jpg" alt="Thumbnail Image" class="img-rounded img-responsive">
+                                </div>
+                            </div>-->
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p><a href="mailto:sales@capabilitywise.com.au">Get in contact</a> with us today to start the discussion on how we can help you.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end Digital Transformation Planning  modal -->
+<!-- Enterprise Agility modal -->
+<div class="modal fade" id="entAgilityModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">Enterprise Agility</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Enterprise agility is more than just having a few Scrum teams.</p>
+                                <p>Have you got the right structures in place to accelerate and respond to market demands:</p>
+                                <ul>
+                                    <li>Do you reporting structures and frameworks make sense in an agile world?</li>
+                                    <li>Is your program of work correctly integrated and delivering on a shared vision?</li>
+                                    <li>Do you recruitment practices support access to the right skills?</li>
+                                    <li>Are you building reusable platforms and services, or just a spaghetti architecture?</li>
+                                </ul>
+                                <p>We have certified Scaled Agile Program Consultants (SPC) and are able to provide training and certification services to your organisation.</p>
+                            </div>
+                            <!--<div class="col-md-4">
+                                <div class="picture">
+                                    <img src="assets/img/dg2.jpg" alt="Thumbnail Image" class="img-rounded img-responsive">
+                                </div>
+                            </div>-->
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>If you want a new approach to managing your projects, <a href="mailto:sales@capabilitywise.com.au">get in touch</a> with us now.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end Enterprise Agility modal -->
+<!-- Standards Adoption modal -->
+<div class="modal fade" id="stdsAdoptionModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">Standards Adoption</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Anyone who has every attempted to implement an IT standard will know that many standards are like swiss cheese <i>- full of holes.</i><br /><br />Standards have an important role in ensuring that systems can interoperate effectively. The challenge is that standards often attempt to support as many possible scenarios as the authors and editors can envisage.  When the reality of implementation hits, standards often need to be further profiled, and conformance claims determined.</p>
+                                <p>Our team has experience both contributing to standards development and profiling standards for use at a whole of economy level.</p>
+                            </div>
+                            <!--<div class="col-md-4">
+                                <div class="picture">
+                                    <img src="assets/img/dg2.jpg" alt="Thumbnail Image" class="img-rounded img-responsive">
+                                </div>
+                            </div>-->
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>If you want a proven approach to standards adoption and interoperability, <a href="mailto:sales@capabilitywise.com.au">get in touch</a> with us now.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end Standards Adoption modal -->
+<!-- BP Reinvention modal -->
+<div class="modal fade" id="bpReinventionModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">Business Process Re-Invention</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Let's face it, no one really like processes and procedures.</p>
+                                <p>For any organisation processed provide the bedrock for consistency, but what if your processes are failing to support you customers or staff to acheive their outcomes.</p>
+                                <p>We can help you take a user-centric approach to reimagine your operating models and processes to support the best customer and staff experiences possible.  We leverage tools including journey mapping and value canvassing to identify pain point and resolution options. </p>
+                            </div>
+                            <!--<div class="col-md-4">
+                                <div class="picture">
+                                    <img src="assets/img/dg2.jpg" alt="Thumbnail Image" class="img-rounded img-responsive">
+                                </div>
+                            </div>-->
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>If your organisation is in need of a business process overhaul, <a href="mailto:sales@capabilitywise.com.au">get in touch</a> with us now.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end BP Reinvention modal -->
+<!-- ChangeMgt modal -->
+<div class="modal fade" id="changeMgtModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">Change Management</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>We understand that poorly planned changes can contribute significantly to poor organisational health, including decreased morale, stress, deteriorating performance and team synergy, as well as absenteeism and increased employ turnover.</p>
+                                <p>We use a range of strategies, processes and tools to develop engaging programs that develop change leaders, support staff transitions through change and establish a positive workplace culture.</p>
+                                <p>Our team have experienced success in a range of change activities, including:</p>
+                                <ul>
+                                    <li>Organisational redesign</li>
+                                    <li>Cultural change and team effectiveness</li>
+                                    <li>Office relocation</li>
+                                    <li>Introduction of new business systems</li>
+                                    <li>Process analysis and redesign</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p>If you have a project coming up that requires change management, <a href="mailto:sales@capabilitywise.com.au">get in touch</a> with us now. </p>
+                    <p>We're here to help!</p>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end ChangeMgt modal -->
+<!-- Blockchain modal -->
+<div class="modal fade" id="blockchainModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">Blockchain</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Capability Wise has the experience and expertise to determine if blockchain is the right solution to your business problem. We have developed a substantial amount of novel intellectual property, including the specific application of blockchain to some critical business problems. Our systems, processes and techniques allow us to rapidly deploy blockchain solutions for most Asset, Supply Chain and Regulatory use cases.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p>If you have more questions, don't hesitate to contact us or email us at: <a href="mailto:sales@capabilitywise.com.au">sales@capabilitywise.com.au</a>. </p>
+                    <p>We're here to help!</p>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end Blockchain modal -->
+<!-- APIs modal -->
+<div class="modal fade" id="apisModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-notice">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
+                    <h4 class="modal-title" id="myModalLabel">APIs &amp; Microservices</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="instruction">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Organisations need to think about quality of service characteristics including fault tolerance, security and performance. We can help you get your API Gateway design right the first time.</p>
+                                <p>What happens behind the gateway is a whole other story. Determining the context and the right granularity of APIs and Microservices is tough. We can help lead your team through this process, building the capability to allow your organisation to quickly stand on its own two feet.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p>If you have more questions, don't hesitate to contact us or email us at: <a href="mailto:sales@capabilitywise.com.au">sales@capabilitywise.com.au</a>. </p>
+                    <p>We're here to help!</p>
+                </div>
+                <div class="modal-footer text-center">
+                    <button type="button" class="btn btn-info btn-round" data-dismiss="modal">Sounds good!</button>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- end APIs modal -->
