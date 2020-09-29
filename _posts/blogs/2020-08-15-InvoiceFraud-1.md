@@ -8,7 +8,10 @@ comments: true
 permalink: /insights/20200815-1
 excerpt-image: /assets/img/card-project4.jpg
 excerpt: "Business Email Compromise (BEC) cost Australians over $132 million in 2019, invoice redirection fraud is one of the most common strategies cybercriminals use to take advantage..."
-tags: Invoice Fraud e-invoicing
+tags: 
+- Invoice 
+- Fraud 
+- e-invoicing
 ---
 
 As digital transformation specialists, Capability Wise understand the pitfalls businesses experience with traditional invoicing methods.  Through continuing to employ conventional billing systems organisations may be putting themselves and their suppliers at unnecessary risk, as cybercriminals become more sophisticated and attempts at fraud become more difficult to detect.  

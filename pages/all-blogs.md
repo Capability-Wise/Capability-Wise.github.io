@@ -74,7 +74,7 @@ permalink: /insights/
 
 			<div class="tab-pane" id="business">
 				{% for blog-page in site.categories.business  limit:10 %}
-				{% if forloop.index <=3 %}
+				{% if forloop.index <=10 %}
 					<div class="col-md-6">
 						<div class="card card-raised card-background" style="background-image: url({{ blog-page.excerpt-image}})">
 							<div class="card-content">
@@ -96,7 +96,7 @@ permalink: /insights/
 			</div>
 							<div class="tab-pane" id="supplychain">
 							{% for blog-page in site.categories.supplychain  limit:10 %}
-				{% if forloop.index <=3 %}
+				{% if forloop.index <=10 %}
 					<div class="col-md-6">
 						<div class="card card-raised card-background" style="background-image: url({{ blog-page.excerpt-image}})">
 							<div class="card-content">
@@ -118,7 +118,7 @@ permalink: /insights/
 							</div>
 							<div class="tab-pane" id="technology">
 							{% for blog-page in site.categories.technology  limit:10 %}
-				{% if forloop.index <=3 %}
+				{% if forloop.index <=10 %}
 					<div class="col-md-6">
 						<div class="card card-raised card-background" style="background-image: url({{ blog-page.excerpt-image}})">
 							<div class="card-content">

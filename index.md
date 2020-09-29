@@ -32,7 +32,22 @@ title: Capability Wise Pty Ltd - Home
 				</div>
 			</div>
 			<div class="features-1">
-				<div class="row">
+<div class="row">
+				<div class="col-md-4">
+						<div class="info">
+							<div class="icon icon-success">
+								<i class="material-icons">extension</i>
+							</div>
+							<h4 class="info-title">e-invoicing Standards Adoption</h4>
+							<p>Our consultants can provide expert guidance on the pragmatic adoption of e-invoicing technology standards and supply chain onboarding. We have the scars of experience and can help you avoid the common pitfalls. We also undertake e-invoicing readiness assessments to provide you with an informed position prior to embarking on an implementation project.</p>
+							<div class="col-md-6 col-md-offset-3">
+								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#stdsAdoptionModal">
+									<i class="material-icons">info_outline</i> More..
+								</button> -->
+							</div>
+						</div>
+					</div>				
+
 					<div class="col-md-4">
 						<div class="info">
 							<div class="icon icon-rose">
@@ -61,6 +76,8 @@ title: Capability Wise Pty Ltd - Home
 							</div>
 						</div>
 					</div>
+</div>
+				<div class="row">
 					<div class="col-md-4">
 						<div class="info">
 							<div class="icon icon-success">
@@ -75,25 +92,11 @@ title: Capability Wise Pty Ltd - Home
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="row">
+				
+				
 					<div class="col-md-4">
 						<div class="info">
 							<div class="icon icon-rose">
-								<i class="material-icons">extension</i>
-							</div>
-							<h4 class="info-title">Standards Adoption</h4>
-							<p>Our consultants can provide expert guidance on the pragmatic adoption of open technology standards and the establishment of cross-industry interoperability framework. We have the scars of experience and can help you avoid the common pitfalls. We also undertake market maturity assessments to provide you with an informed position prior to embarking on a large scale standardisation project.</p>
-							<div class="col-md-6 col-md-offset-3">
-								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#stdsAdoptionModal">
-									<i class="material-icons">info_outline</i> More..
-								</button> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="info">
-							<div class="icon icon-info">
 								<i class="material-icons">settings</i>
 							</div>
 							<h4 class="info-title">Business Process Reinvention</h4>
@@ -107,7 +110,7 @@ title: Capability Wise Pty Ltd - Home
 					</div>
 					<div class="col-md-4">
 						<div class="info">
-							<div class="icon icon-success">
+							<div class="icon icon-info">
 								<i class="material-icons">supervisor_account</i>
 							</div>
 							<h4 class="info-title">Change Management</h4>

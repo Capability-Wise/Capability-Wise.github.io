@@ -6,7 +6,7 @@ categories: case-study
 series: 
 comments: false
 permalink: /case-studies/3
-excerpt-image: /assets/img/card-project4.jpg
+excerpt-image: /assets/img/blogs/2_Industry-Engagement_Stock_Images_Blog_Posts_BS_28AUG2020.jpg
 excerpt: "Case Study 1..."
 tags: Digital Data
 ---

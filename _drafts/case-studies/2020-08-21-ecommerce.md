@@ -6,7 +6,7 @@ categories: case-study
 series: 
 comments: false
 permalink: /case-studies/5
-excerpt-image: /assets/img/card-project4.jpg
+excerpt-image: /assets/img/blogs/ecomm.jpg
 excerpt: "Case Study 1..."
 tags: APIs eCommerce
 ---
