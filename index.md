@@ -38,7 +38,7 @@ title: Capability Wise Pty Ltd - Home
 							<div class="icon icon-success">
 								<i class="material-icons">extension</i>
 							</div>
-							<h4 class="info-title">e-invoicing Standards Adoption</h4>
+							<h4 class="info-title">e-invoicing Enablement</h4>
 							<p>Our consultants can provide expert guidance on the pragmatic adoption of e-invoicing technology standards and supply chain onboarding. We have the scars of experience and can help you avoid the common pitfalls. We also undertake e-invoicing readiness assessments to provide you with an informed position prior to embarking on an implementation project.</p>
 							<div class="col-md-6 col-md-offset-3">
 								<!-- <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#stdsAdoptionModal">
