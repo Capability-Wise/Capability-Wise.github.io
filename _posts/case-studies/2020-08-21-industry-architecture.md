@@ -7,7 +7,7 @@ series:
 comments: false
 permalink: /case-studies/3
 excerpt-image: /assets/img/blogs/2_Industry-Engagement_Stock_Images_Blog_Posts_BS_28AUG2020.jpg
-excerpt: "The Australian education sector is one of the primary drivers of the country’s GDP and the Australian higher education market is valued at $32 Billion catering to 500,000+ international students."
+excerpt: "The Australian education sector is one of the primary drivers of the country’s GDP and the Australian higher education market is valued at $32 Billion catering to 500,000+..."
 tags: Digital Data Architecture Benefits Procurement Requirements
 ---
 
