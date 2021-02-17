@@ -53,7 +53,7 @@ Capability Wise in collaboration with our partners eBlueprint, undertook the fol
 
 - **Data flow mapping and ownership analysis** - Documentation of the current state architecture including the conceptual data model, and associated data utilisation flows and attibute ownership.
 
-- ** Data Governance Assessment** - Assessment of the current governance bodies, responsibilities, practices and processes.
+- **Data Governance Assessment** - Assessment of the current governance bodies, responsibilities, practices and processes.
 
 - **Enterprise Architecture Options** - Creation of three enterprise architecture models to fulfil the core business requirements identified during the User Centred Design activities.  These include federated, centralised and distributed architectures.
 
