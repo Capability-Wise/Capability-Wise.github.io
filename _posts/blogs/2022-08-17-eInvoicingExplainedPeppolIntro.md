@@ -41,7 +41,7 @@ Peppol is actively working with government stakeholders across the global to exp
 The Peppol framework consists of several polices, practices and technology standards to achieve interoperability at a global scale.  
 
 The most popular business document exchanged on the Peppol network is the eInvoice, but the Peppol framework supports a much more extensive suite of business documents, including:
-<div class="table>
+<div class="table">
 | Pre-Award Business Documents | Post-Award Business Documents |
 | --- |  --- |
 | Expression of Interest | Catalogue | 
