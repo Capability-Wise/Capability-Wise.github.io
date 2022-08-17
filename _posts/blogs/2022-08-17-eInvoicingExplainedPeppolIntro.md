@@ -28,7 +28,7 @@ This identifier is then used in real-time to determine which Access Point connec
 
 Following the success of the initial pilot the ability for all public entities to accept electronic invoices (B2G) was legislated as EU Directive 2014/55/EU, and subsequently enacted as law in most EU member countries and mandated for federal-level Public Administrations since April 2020. 
 
-**Peppol Goes Global**
+#### Peppol Goes Global
 
 Peppol eInvoicing has subsequently been mandated for Business-to-Business (B2B) in a number of EU countries, and over the past 24 months has extended its reach to the Asia-Pacific regions with implementations in Singapore, Japan, Australia, and New Zealand.  
 
