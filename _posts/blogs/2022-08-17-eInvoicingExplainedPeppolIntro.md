@@ -1,13 +1,13 @@
 ---
 layout: blog-layout1
-title: "eInvoicing Explained - Intro to Peppol"
+title: "eInvoicing Explained - Introduction to Peppol"
 date: 2022-08-17 10:00:00 +1000
 categories: blog business
 series: "eInvoicing-explained"
 comments: true
 permalink: /insights/20220817-03
 excerpt-image: /assets/img/blogs/business-change.jpg
-excerpt: "Every industry has it's own jargon..  In eInvoicing one of the frequently used terms is Peppol.  So what is 'The Peppol Network'?"
+excerpt: "Every industry has it's own jargon..  In eInvoicing one of the frequently used terms is Peppol.  So what is 'Peppol' and 'The Peppol Network', and how can it help my business?"
 tags: Invoice eInvoicing government business peppol eDelivery
 ---
 
