@@ -4,7 +4,7 @@ title: "eInvoicing Explained - What is it?"
 date: 2022-08-17 10:00:00 +1000
 categories: blog business
 series: "eInvoicing-explained"
-comments: true
+comments: false
 permalink: /insights/20220817-02
 excerpt-image: /assets/img/blogs/business-change.jpg
 excerpt: "When business owners hear about eInvoicing their first response is 'Yeah I do that', but often they assume eInvoicing is sending a PDF.  So what is it and why is it important to your business?"
