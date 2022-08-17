@@ -24,7 +24,7 @@ This model is known as the four-corner model and is similar to how cell-phone ne
 <img class="img-rounded img-responsive img-raised mb-5" alt="Peppol Four-Corner Model" src="../assets/img/blogs/four-corner-diagram.png">
 
  
-In the Peppol Network a buyer or supplier is identified using a Peppol Participant Identifier.  Generally, the Participant Identifier is a business’ unique legal identifier in its country of registration, for example a UEN (Singapore), ABN (Australian) or SIREN (France).  
+In the Peppol Network a buyer or supplier is identified using a Peppol Participant Identifier.  Generally, the Participant Identifier is a business’ unique legal identifier in its country of registration, for example a UEN (Singapore), ABN (Australian) or NZBN (New Zealand).  
 
 This identifier is then used in real-time to determine which Access Point connects the business to the Peppol network and what digital business documents they are enabled to receive.  This process is known as dynamic discovery and leverages open standards to ensure that businesses can easily shift between Peppol service providers or advertise support for new Peppol business documents.
 
@@ -42,12 +42,12 @@ The Peppol framework consists of several polices, practices and technology stand
 
 | Pre-Award Business Documents | Post-Award Business Documents |
 | ----------- |  ----------- |
-| Expression of Interest | Catalogue
-| Call for Tender 	| Punch Out
-| Tender Status Request	| Order / Order Agreement
-| Tender (Response)	| Despatch Advice
-| Tender Receipt	| Invoice
-| Tender Questions / Answers	| Invoice Response
+| Expression of Interest | Catalogue | 
+| Call for Tender | Punch Out | 
+| Tender Status Request	| Order / Order Agreement | 
+| Tender (Response) | Despatch Advice | 
+| Tender Receipt	| Invoice | 
+| Tender Questions / Answers	| Invoice Response | 
 | Tender Clarifications	|  | 
 
 
@@ -56,8 +56,7 @@ Peppol is currently focusing on the following projects:
 
 | Project Name | Description | 
 | ----------- |  ----------- |
-| Peppol International Invoice (PINT) | The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.  
-It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements. |
+| Peppol International Invoice (PINT) | The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.  It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements. |
 | Peppol CTC | The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.  This project is intended to provide Tax Authorities seeking to implement CTC or clearance models with an Off-the-Shelf eInvoicing framework, built on top of proven policies, practices and standards, with a ready-made marketplace of accredited eInvoicing solution providers. |
 | Peppol Logistics | The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios. |
 | Peppol Pre-Award | Peppol is continuing its work on the Pre-Award document suite to support other procurement strategies and mechanisms beyond tenders. |
