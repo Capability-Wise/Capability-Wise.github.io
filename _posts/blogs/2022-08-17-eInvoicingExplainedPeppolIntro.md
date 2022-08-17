@@ -38,10 +38,12 @@ Peppol is actively working with government stakeholders across the global to exp
 
 #### Peppol is more that just a community..
 
-The Peppol framework consists of several polices, practices and technology standards to achieve interoperability at a global scale.  The most popular business document exchanged on the Peppol network is the eInvoice, but the Peppol framework supports a much more extensive suite of business documents, including:
+The Peppol framework consists of several polices, practices and technology standards to achieve interoperability at a global scale.  
+
+The most popular business document exchanged on the Peppol network is the eInvoice, but the Peppol framework supports a much more extensive suite of business documents, including:
 
 | Pre-Award Business Documents | Post-Award Business Documents |
-| ----------- |  ----------- |
+| --- |  --- |
 | Expression of Interest | Catalogue | 
 | Call for Tender | Punch Out | 
 | Tender Status Request	| Order  | 
@@ -56,11 +58,11 @@ The Peppol document suite is regularly enhanced through a semi-annual release cy
 Peppol is currently focusing on the following projects:
 
 | Project Name | Description | 
-| ----------- |  ----------- |
-| Peppol International Invoice (PINT) | The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.  It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements. |
-| Peppol CTC | The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.  This project is intended to provide Tax Authorities seeking to implement CTC or clearance models with an Off-the-Shelf eInvoicing framework, built on top of proven policies, practices and standards, with a ready-made marketplace of accredited eInvoicing solution providers. |
-| Peppol Logistics | The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios. |
-| Peppol Pre-Award | Peppol is continuing its work on the Pre-Award document suite to support other procurement strategies and mechanisms beyond tenders. |
+| --- |  --- |
+| **Peppol International Invoice (PINT)** | The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.  It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements. |
+| **Peppol CTC** | The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.  This project is intended to provide Tax Authorities seeking to implement CTC or clearance models with an Off-the-Shelf eInvoicing framework, built on top of proven policies, practices and standards, with a ready-made marketplace of accredited eInvoicing solution providers. |
+| **Peppol Logistics** | The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios. |
+| **Peppol Pre-Award** | Peppol is continuing its work on the Pre-Award document suite to support other procurement strategies and mechanisms beyond tenders. |
 
 
 It is anticipated that the outputs of each of these projects will be progressively incorporated into the Peppol framework over the next twelve to eighteen months.
