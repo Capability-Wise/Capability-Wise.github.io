@@ -65,26 +65,17 @@ Peppol is currently focusing on the following projects:
 <tr><th>Project Name</th><th>Description</th></tr>
 </thead>
 <tbody>
-<tr><td>**Peppol International Invoice (PINT)**</td>
-<td>The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.  
-It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. 
+<tr><td><strong>Peppol International Invoice (PINT)</strong></td>
+<td>The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.<br/>It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. <br/>
 Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements.</td></tr>
-<tr><td>**Peppol CTC**</td>
-<td>The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.  
+<tr><td><strong>Peppol CTC</strong></td>
+<td>The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.<br/>
 This project is intended to provide Tax Authorities seeking to implement CTC or clearance models with an Off-the-Shelf eInvoicing framework, built on top of proven policies, practices and standards, with a ready-made marketplace of accredited eInvoicing solution providers.</td>
 </tr>
-<tr><td>**Peppol Logistics**</td><td>The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios.</td></tr>
-<tr><td>**Peppol Pre-Award**</td><td>Peppol is continuing its work on the Pre-Award document suite to support other procurement strategies and mechanisms beyond tenders.</td></tr>
+<tr><td><strong>Peppol Logistics</strong></td><td>The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios.</td></tr>
+<tr><td><strong>Peppol Pre-Award</strong></td><td>Peppol is continuing its work on the Pre-Award document suite to support other procurement strategies and mechanisms beyond tenders.</td></tr>
 </tbody>
 </table>
-
-
-| Project Name | Description | 
-| --- |  --- |
-| **Peppol International Invoice (PINT)** | The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.  It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements. |
-| **Peppol CTC** | The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.  This project is intended to provide Tax Authorities seeking to implement CTC or clearance models with an Off-the-Shelf eInvoicing framework, built on top of proven policies, practices and standards, with a ready-made marketplace of accredited eInvoicing solution providers. |
-| **Peppol Logistics** | The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios. |
-| **Peppol Pre-Award** | Peppol is continuing its work on the Pre-Award document suite to support other procurement strategies and mechanisms beyond tenders. |
 
 
 It is anticipated that the outputs of each of these projects will be progressively incorporated into the Peppol framework over the next twelve to eighteen months.
