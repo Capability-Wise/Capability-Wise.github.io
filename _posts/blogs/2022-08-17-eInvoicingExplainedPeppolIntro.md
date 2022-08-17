@@ -43,14 +43,16 @@ The Peppol framework consists of several polices, practices and technology stand
 The most popular business document exchanged on the Peppol network is the eInvoice, but the Peppol framework supports a much more extensive suite of business documents, including:
 <table class="table">
 <thead>
-<tr>Pre-Award Business Documents</tr>
-<tr>Post-Award Business Documents</tr>
+<tr><th>Pre-Award Business Documents</th><th>Post-Award Business Documents</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>Expression of Interest </td>
-<td> Catalogue</td>
-</tr>
+<tr><td>Expression of Interest</td><td>Catalogue</td></tr>
+<tr><td>Call for Tender</td><td>Punch Out</td></tr>
+<tr><td>Tender Status Request</td><td>Order</td></tr>
+<tr><td>Tender (Response)</td><td>Order Agreement</td></tr>
+<tr><td>Tender Receipt</td><td>Despatch Advice</td></tr>
+<tr><td>Tender Questions</td><td>Invoice</td></tr>
+<tr><td>Tender Clarifications</td><td>Invoice Response</td></tr>
 </tbody>
 </table>
 
