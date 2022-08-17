@@ -50,8 +50,9 @@ The most popular business document exchanged on the Peppol network is the eInvoi
 <tr>
 <td>Expression of Interest </td>
 <td> Catalogue</td>
+</tr>
 </tbody>
-</div>
+</table>
 
 | Pre-Award Business Documents |Post-Award Business Documents |
 | --- |  --- |
