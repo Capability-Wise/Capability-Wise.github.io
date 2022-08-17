@@ -56,21 +56,28 @@ The most popular business document exchanged on the Peppol network is the eInvoi
 </tbody>
 </table>
 
-| Pre-Award Business Documents |Post-Award Business Documents |
-| --- |  --- |
-| Expression of Interest | Catalogue | 
-| Call for Tender | Punch Out | 
-| Tender Status Request	| Order  | 
-| Tender (Response) | Order Agreement | 
-| Tender Receipt	| Despatch Advice | 
-| Tender Questions / Answers	| Invoice | 
-| Tender Clarifications	| Invoice Response | 
-
-
-
 The Peppol document suite is regularly enhanced through a semi-annual release cycle which implement minor business rule updates and support for new code lists.  Significant changes to the framework (policy, data and technical) are progressed through Peppol’s domain communities and working groups.
 
 Peppol is currently focusing on the following projects:
+
+<table class="table">
+<thead>
+<tr><th>Project Name</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr><td>**Peppol International Invoice (PINT)**</td>
+<td>The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.  
+It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. 
+Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements.</td></tr>
+<tr><td>**Peppol CTC**</td>
+<td>The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.  
+This project is intended to provide Tax Authorities seeking to implement CTC or clearance models with an Off-the-Shelf eInvoicing framework, built on top of proven policies, practices and standards, with a ready-made marketplace of accredited eInvoicing solution providers.</td>
+</tr>
+<tr><td>**Peppol Logistics**</td><td>The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios.</td></tr>
+<tr><td>**Peppol Pre-Award**</td><td>Peppol is continuing its work on the Pre-Award document suite to support other procurement strategies and mechanisms beyond tenders.</td></tr>
+</tbody>
+</table>
+
 
 | Project Name | Description | 
 | --- |  --- |
