@@ -11,7 +11,7 @@ excerpt: "Every industry has it's own jargon..  In eInvoicing one of the frequen
 tags: Invoice eInvoicing government business peppol eDelivery
 ---
 
-#### The Peppol Origin Story**
+#### The Peppol Origin Story
 
 In 2008 the European Commission recognized the lack of consistent, royalty-free standards was creating a barrier to cross-border procurement for public-sector entities within its 28 Member States.  To reduce the market imbalance for SMBs, reduce market fragmentation and to overcome interoperability issues, the European Commission funded a large-scale pilot originally known as Peppol (Pan-European Public Procurement Online) to explore and test new approaches to digital trade. 
  
