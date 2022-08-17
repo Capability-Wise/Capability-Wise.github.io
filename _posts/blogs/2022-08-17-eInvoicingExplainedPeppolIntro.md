@@ -62,14 +62,14 @@ Peppol is currently focusing on the following projects:
 
 <table class="table">
 <thead>
-<tr><th>Project Name</th><th>Description</th></tr>
+<tr><th>Project</th><th>Description</th></tr>
 </thead>
 <tbody>
 <tr><td><strong>Peppol International Invoice (PINT)</strong></td>
-<td>The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.<br/>It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. <br/>
-Overlayed on top of this core model is any regional or domestic trading rules and regulations, or industry specific requirements.</td></tr>
+<td>The Peppol International Invoice project is seeking to evolve the Peppol eInvoice to provide true global applicability.<br/><br/>It seeks to achieve this through creating a layered approach to invoice content that support a shared set of international core data elements, that can be processes by any Peppol recipient regardless of country. <br/><br/>
+Overlayed on top of this core model is any regional or domestic trading rules and tax regulations, or industry specific requirements.</td></tr>
 <tr><td><strong>Peppol CTC</strong></td>
-<td>The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.<br/>
+<td>The Peppol CTC project is focused on defining a repeatable approach to supporting Continuous Transaction Controls within a Five Corner Model, involving a domestic tax authority.<br/><br/>
 This project is intended to provide Tax Authorities seeking to implement CTC or clearance models with an Off-the-Shelf eInvoicing framework, built on top of proven policies, practices and standards, with a ready-made marketplace of accredited eInvoicing solution providers.</td>
 </tr>
 <tr><td><strong>Peppol Logistics</strong></td><td>The Peppol Logistics project is seeking to extend the Peppol business document suite to support complex logistics and fulfilment scenarios.</td></tr>
