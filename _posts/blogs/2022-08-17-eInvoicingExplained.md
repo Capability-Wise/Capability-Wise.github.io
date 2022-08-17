@@ -1,7 +1,7 @@
 ---
 layout: blog-layout1
 title: "Electronic Invoicing (eInvoicing) Explained"
-date: 2022-08-17 11:00:00 +1000
+date: 2022-08-17 10:00:00 +1000
 categories: blog business
 series:
 comments: true
