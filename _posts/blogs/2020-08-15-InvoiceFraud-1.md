@@ -4,7 +4,7 @@ title: "Invoice Redirection Fraud: how it happens, and how to avoid it "
 date: 2020-08-16 11:38:00 +1000
 categories: blog business
 series:
-comments: true
+comments: false
 permalink: /insights/20200815-1
 excerpt-image: /assets/img/card-project4.jpg
 excerpt: "Business Email Compromise (BEC) cost Australians over $132 million in 2019, invoice redirection fraud is one of the most common strategies cybercriminals use to take advantage..."

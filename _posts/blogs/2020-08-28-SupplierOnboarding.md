@@ -4,7 +4,7 @@ title: "Best Practices: The importance of supplier onboarding "
 date: 2020-08-31 11:39:00 +1000
 categories: blog business
 series: "best-practices"
-comments: true
+comments: false
 permalink: /insights/20200828
 excerpt-image: /assets/img/blogs/2_Supplier-onboarding_Stock_Images_Blog_Posts_BS_28AUG2020.jpg
 excerpt: "First Impressions Last! The first step in developing a lasting relationship with your suppliers is through efficient onboarding. A supplier who experiences a professional introduction to your company is left confident in..."

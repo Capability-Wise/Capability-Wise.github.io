@@ -4,7 +4,7 @@ title: "Getting started with Electronic Invoicing (eInvoicing)"
 date: 2022-08-17 10:00:00 +1000
 categories: blog business
 series:
-comments: true
+comments: false
 permalink: /insights/20220817-01
 excerpt-image: /assets/img/blogs/get-started.png
 excerpt: "We often get asked by a government and corporate customers, 'Where do I start with eInvoicing..?', 'When do I need to be ready for eInvoicing..?', or 'What do I tell me suppliers..?'"

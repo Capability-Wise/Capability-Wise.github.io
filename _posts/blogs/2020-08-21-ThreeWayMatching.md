@@ -4,7 +4,7 @@ title: "Best Practices: Invoice Verification & Matching"
 date: 2020-08-21 11:39:00 +1000
 categories: blog business
 series: "best-practices"
-comments: true
+comments: false
 permalink: /insights/20200815-2
 excerpt-image: /assets/img/blogs/20200815-2-4.jpg
 excerpt: "When it comes to paying accounts, sloppy processes can impact on your bottom line – increasing your risk of errors and exposure to invoice fraud, eroding the trust of reliable suppliers and costing your business time and money..."
